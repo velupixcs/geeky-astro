@@ -51,6 +51,7 @@ const featuredPosts = posts.filter((post) => post.data.featured);
             <span set:html={markdownify(banner.title_small)} />
           </div>
           <p class="mt-4" set:html={markdownify(banner.content)} />
+          <p>&nbsp;</p> 
           {
             banner.button.enable && (
               <a class="btn btn-primary lg:mb-0 my-6" href={banner.button.link}>
@@ -58,6 +59,7 @@ const featuredPosts = posts.filter((post) => post.data.featured);
               </a>
             )
           }
+          <p>&nbsp;</p> 
           <p>&nbsp;</p> 
         </div>
         {
