@@ -7,8 +7,8 @@ banner:
   image: ""
   button:
     enable: true
-    label: Know About Me
-    link: /about
+    label: Suscribite al news de negocios digitales
+    link: https://optin.myperfit.com/subscribe/thelearner/3TVELFS7
     rel: ""
 
 featured_posts:
