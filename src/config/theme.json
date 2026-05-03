@@ -3,7 +3,7 @@
     "default": {
       "theme_color": {
         "primary": "#0b4b83",
-        "body": "#9efb93",
+        "body": "#e9fcf9",
         "border": "#d85222",
         "light": "#ecf8f7",
         "dark": "#012d83"
@@ -40,5 +40,6 @@
       "base": "16",
       "scale": "1.164"
     }
-  }
+  },
+  "draft": false
 }
