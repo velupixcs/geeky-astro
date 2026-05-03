@@ -4,7 +4,7 @@ banner:
   title_small: to John Bravo's Blog
   content: Are Developer and recently started your own business Already made
     website to ensure presence wants to develop.
-  image_enable: true
+  image_enable: false
   image: ""
   button:
     enable: true
