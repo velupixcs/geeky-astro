@@ -1,9 +1,9 @@
 ---
 banner:
-  title: Hola**!**
+  title: Hola!
   title_small: esto es The Learner
   content: Humanos que aprenden
-  image_enable: false
+  image_enable: true
   image: /images/the learner 1-fondo transparente.png
   button:
     enable: true
