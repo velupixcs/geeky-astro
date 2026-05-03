@@ -7,7 +7,7 @@ banner:
   image: ""
   button:
     enable: true
-    label: Suscribite al news de negocios digitales
+    label: Suscribite al news de tecnología y negocios quincenal
     link: https://optin.myperfit.com/subscribe/thelearner/3TVELFS7
     rel: ""
 
