@@ -1,11 +1,10 @@
 ---
 banner:
-  title: Welcome **!**
-  title_small: to John Bravo's Blog
-  content: Are Developer and recently started your own business Already made
-    website to ensure presence wants to develop.
+  title: Hola**!**
+  title_small: esto es The Learner
+  content: Humanos que aprenden
   image_enable: false
-  image: ""
+  image: /images/the learner 1-fondo transparente.png
   button:
     enable: true
     label: Know About Me
