@@ -3,8 +3,8 @@ banner:
   title: Hola!
   title_small: esto es The Learner
   content: Humanos que aprenden
-  image_enable: true
-  image: /images/the learner 1-fondo transparente.png
+  image_enable: false
+  image: ""
   button:
     enable: true
     label: Know About Me
