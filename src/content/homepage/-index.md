@@ -1,8 +1,8 @@
 ---
 banner:
-  title: Bienvenido a The Learner!
-  title_small: Comunidad de Conocimiento
-  content: ""
+  title: ¡Hola!
+  title_small: Esto es The Learner
+  content: Comunidad de Conocimiento
   image_enable: false
   image: ""
   button:
