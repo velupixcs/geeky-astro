@@ -1,8 +1,8 @@
 ---
 banner:
-  title: Hola!
-  title_small: esto es The Learner
-  content: Humanos que aprenden
+  title: Bienvenido a The Learner!
+  title_small: Comunidad de Conocimiento
+  content: ""
   image_enable: false
   image: ""
   button:
@@ -16,8 +16,8 @@ featured_posts:
   title: Featured Posts
 
 promotion:
-  enable: true
-  image: /images/promotion.png
+  enable: false
+  image: ""
   link: /contact
 
 recent_posts:
