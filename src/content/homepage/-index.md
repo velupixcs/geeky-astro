@@ -2,7 +2,7 @@
 banner:
   title: ¡Hola!
   title_small: Esto es The Learner
-  content: ""
+  content: strategic questions | strategic insights
   image_enable: false
   image: ""
   button:
