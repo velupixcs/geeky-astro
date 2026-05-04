@@ -1,6 +1,6 @@
 ---
 banner:
-  title: ¡Hola!
+  title: "**¡Hola!**"
   title_small: Esto es The Learner
   content: Strategic Questions / Strategic Insights
   image_enable: false
