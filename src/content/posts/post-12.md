@@ -1,9 +1,10 @@
 ---
 title: "What is a Virtual Assistant"
-date: 2022-04-04T12:00:00Z
+date: 2022-04-04T12:00:00.000Z
 image: /images/post/post-4.png
-categories: ["github"]
-featured: true
+categories:
+  - github
+featured: false
 draft: false
 ---
 
