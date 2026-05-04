@@ -44,8 +44,8 @@ const featuredPosts = posts.filter((post) => post.data.featured);
         class="row flex-wrap-reverse items-center justify-center lg:flex-row">
         <div
           class={banner.image_enable
-            ? "mt-12 text-center lg:mt-0 lg:text-left lg:col-6"
-            : "mt-12 text-center lg:mt-0 lg:text-left lg:col-12"}>
+            ? "mt-12 text-center lg:mt-0 lg:text-center lg:col-6"
+            : "mt-12 text-center lg:mt-0 lg:text-center lg:col-12"}>
           <div class="banner-title">
             <h1 set:html={markdownify(banner.title)} />
             <p>&nbsp;</p> 
