@@ -47,8 +47,8 @@ const featuredPosts = posts.filter((post) => post.data.featured);
             ? "mt-12 text-center lg:mt-0 lg:text-center lg:col-6"
             : "mt-12 text-center lg:mt-0 lg:text-center lg:col-12"}>
           <div class="banner-title">
-            <h1 set:html={markdownify(banner.title)} />
-            <p>&nbsp;</p> 
+            <span set:html={markdownify(banner.title)} />
+            <br>
             <span set:html={markdownify(banner.title_small)} />    
             <br>
             <subspan set:html={markdownify(banner.content)} />
