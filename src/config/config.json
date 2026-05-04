@@ -1,21 +1,20 @@
 {
   "site": {
-    "title": "Geeeky Astro",
+    "title": "The Learner",
     "base_url": "https://example.com",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
+    "favicon": "",
     "logo": "/images/logo.png",
     "logo_darkmode": "/images/logo-darkmode.png",
-    "logo_width": "150",
-    "logo_height": "39",
-    "logo_text": "Geeky"
+    "logo_width": "200",
+    "logo_height": "60",
+    "logo_text": "The Learner"
   },
-
   "settings": {
     "search": true,
-    "sticky_header": false,
-    "theme_switcher": true,
+    "sticky_header": true,
+    "theme_switcher": false,
     "default_theme": "system",
     "pagination": 6,
     "InnerPaginationOptions": {
@@ -25,13 +24,11 @@
     "summary_length": 200,
     "post_folder": "posts"
   },
-
   "params": {
     "contact_form_action": "#",
     "footer_content": "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper.",
     "copyright": "Designed and Developed By [Statichunt](https://statichunt.com/)"
   },
-
   "widgets": {
     "about": {
       "enable": true,
@@ -59,15 +56,13 @@
     "label": "Get Started",
     "link": "https://example.com"
   },
-
   "metadata": {
     "meta_author": "statichunt",
     "meta_image": "/images/og-image.png",
     "meta_description": "astro and tailwind boilerplate"
   },
-
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   }
