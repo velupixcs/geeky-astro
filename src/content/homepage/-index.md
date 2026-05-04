@@ -7,7 +7,7 @@ banner:
   image: ""
   button:
     enable: true
-    label: Suscribite al news de tecnología y negocios
+    label: Suscribite al newsletter
     link: https://optin.myperfit.com/subscribe/thelearner/3TVELFS7
     rel: ""
 
@@ -24,3 +24,4 @@ recent_posts:
   title: Recent Posts
   enable: true
 ---
+​
