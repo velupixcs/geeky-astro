@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "**¡Hola!**"
-  title_small: "**Esto es The Learner**"
+  title: ¡Hola!
+  title_small: Esto es The Learner
   content: ""
   image_enable: false
   image: ""
