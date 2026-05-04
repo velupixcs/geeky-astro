@@ -142,7 +142,7 @@
     }
 
     subspan {
-      @apply text-h2 font-normal font-bold text-text-dark dark:text-darkmode-text-light lg:text-[20px];
+      @apply text-h2 font-bold text-text-dark dark:text-darkmode-text-light lg:text-[18px];
     }
     
   }
