@@ -1,6 +1,6 @@
 ---
 title: About
-image: "vlupics.jpeg"
+image: "/images/vlupics.jpeg"
 meta_title: ""
 description: "loren ipsum"
 education:
