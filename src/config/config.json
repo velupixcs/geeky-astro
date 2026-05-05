@@ -35,12 +35,12 @@
       "content": "Lorem ipsum dolor sit amet, conse tfctetur adipiscing elit. Vel in in donec iaculis tempasus odio nunc laoreet . Libero ullam rgscorper."
     },
     "featured_posts": {
-      "enable": true,
+      "enable": false,
       "title": "Blog Categories",
       "showPost": 3
     },
     "categories": {
-      "enable": true,
+      "enable": false,
       "title": "Blog Categories"
     },
     "newsletter": {
