@@ -32,9 +32,9 @@
   "fonts": {
     "font_family": {
       "primary": "Merriweather Sans:wght@400;700",
-      "primary_type": "serif",
+      "primary_type": "sans-serif",
       "secondary": "Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900",
-      "secondary_type": "sans-serif"
+      "secondary_type": "serif"
     },
     "font_size": {
       "base": "16",
