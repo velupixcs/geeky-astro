@@ -1,5 +1,5 @@
 ---
-title: Sobre The Learner
+title: ""
 image: "/images/v.png"
 meta_title: ""
 description: ""
