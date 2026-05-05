@@ -17,7 +17,7 @@ Soy periodista, especialista en comunicación con algo de artista digital. Vivo 
 
 Antes del Y2K hice radio y TV. Luego, desde el 2000 comencé a crear y curar contenidos sobre negocios y tecnología: en Intermanagers (HSM en ese momento) comenzamos con los newsletters y los webinars de educación ejecutiva. Usábamos una Palm, y se respiraba ebullición y entusiasmo por la llegada de Internet.&#x20;
 
-Fui madre, y en eso estaba, cuando en 2007 aparecieron el Iphone y las primeras redes sociales.&#x20;
+Fui madre, y en eso estaba, cuando en 2007 aparecieron el iPhone y las primeras redes sociales.&#x20;
 
 Trabajé en comunicación externa para grandes agencias de publicidad (Grey, Ogilvy, Dentsu) cuando hablaban de tener un _equipo de digital_, hasta que ese equipo se transformó en la empresa.&#x20;
 
