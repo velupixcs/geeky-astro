@@ -38,7 +38,8 @@ const categoriesWithPostsCount = catagories.map((category) => {
   {
     about.enable && (
       <div class="relative rounded border border-border text-center dark:border-darkmode-border">
-        <Logo class="mt-8"/>
+        <p>&nbsp;</p>
+        <Logo />
 
         <p class="mt-8" set:html={markdownify(about.content)} />
         <Social
