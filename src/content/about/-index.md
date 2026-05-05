@@ -15,9 +15,7 @@ experience:
 
 ![](</images/WhatsApp Image 2026-04-25 at 11.43.13 PM.jpeg>)
 
-**Mi nombre es Viviana Lupi**
-
-**​**
+**¡Hola! Mi nombre es Viviana Lupi**
 
 Soy periodista, especialista en comunicación con algo de artista digital. Vivo en la intersección de la comunicación, la tecnología y la educación ejecutiva.
 
