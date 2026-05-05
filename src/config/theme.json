@@ -31,9 +31,9 @@
   },
   "fonts": {
     "font_family": {
-      "primary": "Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900",
+      "primary": "Merriweather Sans:wght@400;700",
       "primary_type": "serif",
-      "secondary": "Merriweather Sans:wght@400;700",
+      "secondary": "Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900",
       "secondary_type": "sans-serif"
     },
     "font_size": {
