@@ -11,6 +11,10 @@ experience:
   title: ""
   list: []
 ---
+**​**
+
+![](</images/WhatsApp Image 2026-04-25 at 11.43.13 PM.jpeg>)
+
 **Mi nombre es Viviana Lupi**
 
 **​**
