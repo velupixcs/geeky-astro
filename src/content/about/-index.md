@@ -1,8 +1,8 @@
 ---
-title: About
+title: ¡Hola! Mi nombre es Viviana Lupi
 image: "/images/vlupics.jpeg"
 meta_title: ""
-description: "loren ipsum"
+description: ""
 education:
   title: ""
   degrees: []
@@ -11,12 +11,6 @@ experience:
   title: ""
   list: []
 ---
-**​**
-
-![](/images/vlupics.jpeg)
-
-**¡Hola! Mi nombre es Viviana Lupi**
-
 Soy periodista, especialista en comunicación con algo de artista digital. Vivo en la intersección de la comunicación, la tecnología y la educación ejecutiva.
 
 Antes del Y2K hice radio y TV. Luego, desde el 2000 comencé a crear y curar contenidos sobre negocios y tecnología: en Intermanagers (HSM en ese momento) comenzamos con los newsletters y los webinars de educación ejecutiva. Usábamos una Palm, y se respiraba ebullición y entusiasmo por la llegada de Internet.&#x20;
