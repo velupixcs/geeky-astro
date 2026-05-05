@@ -58,23 +58,6 @@ const featuredPosts = posts.filter((post) => post.data.featured);
               </a>
             )
           }
-        </div>
-        {
-          banner.image_enable && (
-            <div class="col-9 lg:col-6">
-              <Image
-                class="mx-auto object-contain"
-                src={banner.image}
-                width={548}
-                height={443}
-                format="webp"
-                alt="Banner"
-                loading="eager"
-              />
-            </div>
-          )
-        }
-      </div>
     </div>
   </section>
 
