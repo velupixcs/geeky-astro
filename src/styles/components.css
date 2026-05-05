@@ -138,11 +138,11 @@
     }
 
     span {
-      @apply text-[36px] font-normal font-bold text-text-dark dark:text-darkmode-text-light lg:text-[36px];
+      @apply text-[30px] font-normal font-bold text-text-dark dark:text-darkmode-text-light lg:text-[40px];
     }
 
     subspan {
-      @apply text-[16px] font-bold text-text-dark dark:text-darkmode-text-light lg:text-[16px];
+      @apply text-[14px] font-bold text-text-dark dark:text-darkmode-text-light lg:text-[18px];
     }
     
   }
