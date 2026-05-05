@@ -138,7 +138,7 @@
     }
 
     span {
-      @apply text-[16px] font-normal font-bold text-[#000000] dark:text-darkmode-text-light lg:text-[36px];
+      @apply text-[16px] font-normal font-bold text-["#FA5E0D"] dark:text-darkmode-text-light lg:text-[32px];
     }
 
     subspan {
