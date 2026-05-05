@@ -82,7 +82,7 @@ const featuredPosts = posts.filter((post) => post.data.featured);
   <section class="section">
     <div class="container">
       <div class="row items-start">
-        <div class="mb-12 lg:mb-0 lg:col-8">
+        <div class="mb-0 lg:mb-0 lg:col-8">
           {/* Featured posts */}
           {
             featured_posts.enable && (
@@ -91,7 +91,7 @@ const featuredPosts = posts.filter((post) => post.data.featured);
                   class="section-title"
                   set:html={markdownify(featured_posts.title)}
                 />
-                <div class="rounded border border-border p-0 dark:border-darkmode-border">
+                <div class="rounded border border-border p-6 dark:border-darkmode-border">
                   <div class="row">
                     <div class="md:col-6">
                       <Post {...featuredPosts[0]} />
@@ -145,7 +145,7 @@ const featuredPosts = posts.filter((post) => post.data.featured);
           {/* Promotion */}
           {
             promotion.enable && (
-              <a href={promotion.link} class="section block pt-0">
+              <a href={promotion.link} class="section block pt-6">
                 <Image
                   class="h-full w-full"
                   height={115}
@@ -161,7 +161,7 @@ const featuredPosts = posts.filter((post) => post.data.featured);
           {/* Recent Posts */}
           {
             recent_posts.enable && (
-              <div class="section pt-0">
+              <div class="section pt-6">
                 <h2
                   class="section-title"
                   set:html={markdownify(recent_posts.title)}
