@@ -21,6 +21,6 @@ Fui madre, y en eso estaba, cuando en 2007 aparecieron el iPhone y las primeras 
 
 Trabajé en comunicación externa para grandes agencias de publicidad (Grey, Ogilvy, Dentsu) cuando hablaban de tener un _equipo de digital_, hasta que ese equipo se transformó en la empresa.&#x20;
 
-Así llegué en 2014 a MIND -Management Integral de Negocios Digitales, en la Universidad de San Andrés- para entender junto a un listado enorme e increíble de expertos de las principales nativas digitales de Latinoamérica, el cambio profundo que implicaba la transformación digital en las organizaciones.&#x20;
+Así llegué en 2014 a MIND—Management Integral de Negocios Digitales, en la Universidad de San Andrés—para entender junto a un listado enorme e increíble de expertos de las principales nativas digitales de Latinoamérica, el cambio profundo que implicaba la transformación digital en las organizaciones.&#x20;
 
 Ahora con **The Learner** busco crear un espacio donde la curiosidad, información, y espíritu indagador encuentren un contexto para, a través de conversaciones, miradas y experiencias, tratar de entender un poco más el mundo en que vivimos.
