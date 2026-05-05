@@ -1,6 +1,6 @@
 ---
 title: ""
-image: "/images/v.png"
+image: "/images/v_copy(1).png"
 meta_title: ""
 description: ""
 education:
