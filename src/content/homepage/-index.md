@@ -22,6 +22,6 @@ promotion:
 
 recent_posts:
   title: Recent Posts
-  enable: true
+  enable: false
 ---
 ​
