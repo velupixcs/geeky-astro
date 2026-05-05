@@ -13,7 +13,7 @@ experience:
 ---
 **​**
 
-![](</images/WhatsApp Image 2026-04-25 at 11.43.13 PM.jpeg>)
+![](/images/vlupics.jpeg)
 
 **¡Hola! Mi nombre es Viviana Lupi**
 
