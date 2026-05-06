@@ -12,7 +12,7 @@ experience:
   list: []
 ---
 
-![](/images/vlupics.jpeg "{width='20%'}")
+![](/images/vlupics.jpeg "{width='20px'}")
 
 **​**
 
