@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Ask strategic questions. Have strategic insight.
+  title: Ask strategic questions. Build strategic insight.
   title_small: ""
   content: ""
   image_enable: false
