@@ -11,7 +11,9 @@ experience:
   title: ""
   list: []
 ---
+<div style="mx: 40%;">
 ![](/images/vlupics.jpeg)
+</div>
 
 **​**
 
