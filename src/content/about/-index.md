@@ -1,5 +1,5 @@
 ---
-title: "Sobre The Learner"
+title: ""
 image: ""
 meta_title: ""
 description: ""
