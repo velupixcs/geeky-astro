@@ -12,7 +12,13 @@ experience:
   list: []
 ---
 
-![](/images/vlupics.jpeg "{width='20px'}")
+<img
+  src="/images/vlupics.jpeg"
+  width="200"
+  decoding="async"
+  loading="lazy"
+  alt=""
+/>
 
 **​**
 
