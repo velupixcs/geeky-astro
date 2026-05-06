@@ -1,10 +1,10 @@
 ---
-title: "Let’s, Talk </br> About You"
-description: "meta description"
+title: "Estemos </br> en contacto"
+description: ""
 meta_title: ""
-phone: "+211234565523"
-mail: "info@email.com"
-location: "9567 Turner Trace Apt. BC C3G8A4"
+phone: "+54 911 5555-5555"
+mail: "info [at] thelearner.net"
+location: ""
 form_action: "#"
 social_links:
   - icon: FaUser
@@ -19,3 +19,4 @@ social_links:
 
 draft: false
 ---
+​
