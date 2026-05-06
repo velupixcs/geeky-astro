@@ -38,12 +38,10 @@ const categoriesWithPostsCount = catagories.map((category) => {
   {
     about.enable && (
       <div class="relative rounded border p-6 border-border text-center dark:border-darkmode-border">
-        <p>&nbsp;</p>
         <Logo />
-
-        <p class="mt-2 text-s" set:html={markdownify(about.content)} />
+        <p class="mt-6 text-s" set:html={markdownify(about.content)} />
         <Social
-          className="socials sidebar-socials mt-6 mb-6 justify-center"
+          className="socials sidebar-socials mt-6 justify-center"
           source={main}
         />
       </div>
