@@ -11,7 +11,7 @@ experience:
   title: ""
   list: []
 ---
-​<div style="display: grid; place-items: center; margin: 0; padding: 0">
+​<div style="display: flex; justify-content: center; margin: 0; padding: 0">
 ​<img
 src="/images/vlupics.jpeg"
 width="200"
