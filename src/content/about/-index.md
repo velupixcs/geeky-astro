@@ -1,6 +1,6 @@
 ---
 title: ""
-image: "/images/v_copy(1).png"
+image: ""
 meta_title: ""
 description: ""
 education:
@@ -11,6 +11,10 @@ experience:
   title: ""
   list: []
 ---
+![](/images/vlupics.jpeg)
+
+**​**
+
 **¡Hola! Mi nombre es Viviana Lupi**
 
 Soy periodista, especialista en comunicación con algo de artista digital. Vivo en la intersección de la comunicación, la tecnología y la educación ejecutiva.
