@@ -11,14 +11,14 @@ experience:
   title: ""
   list: []
 ---
-​<img
+​<centering>
+<img
 src="/images/vlupics.jpeg"
 width="200"
-display="block"
-margin="auto"
 decoding="async"
 loading="lazy"
 alt="" />​
+</centering>
 
 **​**
 
