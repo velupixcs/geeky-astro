@@ -11,14 +11,14 @@ experience:
   title: ""
   list: []
 ---
-​<centering>
-<img
+​<div style="display: flex; justify-content: center;">
+​<img
 src="/images/vlupics.jpeg"
 width="200"
 decoding="async"
 loading="lazy"
-alt="" />​
-</centering>
+alt="" />​ 
+</div>
 
 **​**
 
