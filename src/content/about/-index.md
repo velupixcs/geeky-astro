@@ -14,8 +14,8 @@ experience:
 ​<img
 src="/images/vlupics.jpeg"
 width="200"
-display: block;
-margin: auto;
+display="block"
+margin="auto"
 decoding="async"
 loading="lazy"
 alt="" />​
