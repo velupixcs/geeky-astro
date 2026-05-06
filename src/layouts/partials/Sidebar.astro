@@ -41,7 +41,7 @@ const categoriesWithPostsCount = catagories.map((category) => {
         <p>&nbsp;</p>
         <Logo />
 
-        <p class="mt-2" set:html={markdownify(about.content)} />
+        <p class="mt-2 text-s" set:html={markdownify(about.content)} />
         <Social
           className="socials sidebar-socials mt-6 mb-6 justify-center"
           source={main}
@@ -159,7 +159,7 @@ const categoriesWithPostsCount = catagories.map((category) => {
     newsletter.enable && (
       <div class="mt-6  rounded border border-border p-6 text-center dark:border-darkmode-border">
         <h4 class="section-title">{newsletter.title}</h4>
-        <p class="mt-10 text-xs">{newsletter.content}</p>
+        <p class="mt-10 text-s">{newsletter.content}</p>
         <form action="#" class="py-6">
           <fieldset class="relative">
             <input
