@@ -37,16 +37,15 @@ const categoriesWithPostsCount = catagories.map((category) => {
 <aside class={`${className} lg:col-4`}>
   {
     about.enable && (
-      <div class="relative rounded border border-border text-center dark:border-darkmode-border">
+      <div class="relative rounded border p-6 border-border text-center dark:border-darkmode-border">
         <p>&nbsp;</p>
         <Logo />
 
-        <p class="mt-8" set:html={markdownify(about.content)} />
+        <p class="mt-2" set:html={markdownify(about.content)} />
         <Social
-          className="socials sidebar-socials mt-6 justify-center"
+          className="socials sidebar-socials mt-6 mb-6 justify-center"
           source={main}
         />
-        <p>&nbsp;</p>
       </div>
     )
   }
