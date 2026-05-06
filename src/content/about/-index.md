@@ -11,14 +11,14 @@ experience:
   title: ""
   list: []
 ---
-
-<img
-  src="/images/vlupics.jpeg"
-  width="200"
-  decoding="async"
-  loading="lazy"
-  alt=""
-/>
+​<img
+src="/images/vlupics.jpeg"
+width="200"
+display: block;
+margin: auto;
+decoding="async"
+loading="lazy"
+alt="" />​
 
 **​**
 
