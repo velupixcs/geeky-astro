@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Sobre The Learner"
 image: ""
 meta_title: ""
 description: ""
@@ -19,8 +19,6 @@ decoding="async"
 loading="lazy"
 alt="" />​ 
 </div>
-
-**​**
 
 **¡Hola! Mi nombre es Viviana Lupi**
 
