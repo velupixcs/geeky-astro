@@ -1,19 +1,11 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Principal",
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "Posts",
+      "name": "Novedades",
       "url": "\\posts",
       "hasChildren": false,
       "children": [
@@ -22,23 +14,31 @@
           "url": "/categories"
         }
       ]
+    },
+    {
+      "name": "Contacto",
+      "url": "/contact"
+    },
+    {
+      "name": "Sobre The Learner",
+      "url": "/about"
     }
   ],
   "footer": [
     {
-      "name": "Home",
+      "name": "Principal",
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     },
     {
-      "name": "Privacy Policy",
+      "name": "Sobre The Learner",
+      "url": "/about"
+    },
+    {
+      "name": "Politica de Privacidad",
       "url": "/privacy-policy"
     }
   ]
