@@ -1,12 +1,12 @@
 {
   "main": [
     {
-      "name": "Principal",
+      "name": "Home",
       "url": "/"
     },
     {
-      "name": "Novedades",
-      "url": "\\posts",
+      "name": "Publicaciones",
+      "url": "\\publicaciones",
       "hasChildren": false,
       "children": [
         {
@@ -16,17 +16,13 @@
       ]
     },
     {
-      "name": "Contacto",
-      "url": "/contact"
-    },
-    {
-      "name": "Sobre The Learner",
+      "name": "About me",
       "url": "/about"
     }
   ],
   "footer": [
     {
-      "name": "Principal",
+      "name": "Home",
       "url": "/"
     },
     {
@@ -34,7 +30,7 @@
       "url": "/contact"
     },
     {
-      "name": "Sobre The Learner",
+      "name": "About The Learner",
       "url": "/about"
     },
     {
