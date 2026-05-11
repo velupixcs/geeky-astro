@@ -25,4 +25,6 @@ Trabajé en estrategia de comunicación cuando en las grandes empresas se hablab
 
 Así llegué en 2014 una vez más a la educación ejecutiva con MIND—Management Integral de Negocios Digitales, en la Universidad de San Andrés y Minders Group—para entender durante once años junto a fundadores  e impulsores de las principales empresas digitales de Latinoamérica, el cambio profundo que traía la digitalización.&#x20;
 
-Ahora con **The Learner** busco crear un lugar en donde la curiosidad, información, y espíritu indagador encuentren un contexto para, a través de conversaciones y material interesante, tratar de entender los cambios culturales y de negocios en que vivimos.&#x20;
+Ahora con **The Learner** busco crear un lugar en donde la curiosidad, información, y espíritu indagador encuentren un contexto para, a través de conversaciones y material interesante, seguir de cerca los cambios culturales y de negocios en que vivimos.&#x20;
+
+Gracias por tu curiosidad. 🐱‍👓
