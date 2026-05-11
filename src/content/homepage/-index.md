@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Ask strategic questions. Get strategic insights.
+  title: "Escenarios + Preguntas Curiosas + Insights "
   title_small: ""
   content: ""
   image_enable: false
@@ -12,7 +12,7 @@ banner:
     rel: ""
 
 featured_posts:
-  enable: false
+  enable: true
   title: Featured Posts
 
 promotion:
