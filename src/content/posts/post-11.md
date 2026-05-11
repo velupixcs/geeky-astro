@@ -5,7 +5,7 @@ image: /images/Screenshot_11-5-2026_164041_hai.stanford.edu.jpeg
 categories:
   - AI
   - Escenario
-featured: true
+featured: false
 draft: false
 ---
 _Los mejores modelos de IA hoy están separados por diferencias mínimas de rendimiento cuando se los compara con criterios similares, dice el_ [_HAI de Stanford_](https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance) _(Human Centered Artificial Intelligence de Stanford), que sigue esta evolución desde hace 9 años._
