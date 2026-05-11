@@ -12,7 +12,7 @@ banner:
     rel: ""
 
 featured_posts:
-  enable: true
+  enable: false
   title: Featured Posts
 
 promotion:
@@ -22,6 +22,6 @@ promotion:
 
 recent_posts:
   title: Recent Posts
-  enable: false
+  enable: true
 ---
 ​
