@@ -1,6 +1,6 @@
 ---
 title: ""
-image: "/images/Vivi L B&N Baja.png"
+image: "/images/v.png"
 meta_title: ""
 description: ""
 education:
