@@ -1,8 +1,8 @@
 ---
 title: "¡Hola persona que quiere saber! Acá, The Learner."
 image: "/images/v.png"
-meta_title: ""
-description: ""
+meta_title: "¡Hola persona que quiere saber! Acá, The Learner."
+description: "Haciendo click acá, podés conocer más de The Learner"
 education:
   title: ""
   degrees: []
