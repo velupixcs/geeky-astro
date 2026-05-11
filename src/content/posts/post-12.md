@@ -21,6 +21,6 @@ En cuanto al impacto en el negocio, para el [Latin America in the Intelligent Ag
 
 > Lo que sigue llamando la atención es que **apenas 10% de los encuestados reconoce que su estrategia de IA está vinculada a su estrategia general** del **negocio, y en consecuencia tampoco saben cómo comunicarla dentro de la organización o cómo desarrollar/retener talento especializado.**
 
-_Example Caption_
+​
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+​
