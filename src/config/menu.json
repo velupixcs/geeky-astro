@@ -6,7 +6,7 @@
     },
     {
       "name": "Publicaciones",
-      "url": "\\publicaciones",
+      "url": "\\posts",
       "hasChildren": false,
       "children": [
         {
@@ -18,7 +18,7 @@
     {
       "name": "About The Learner",
       "url": "/about",
-      "hasChildren": true
+      "hasChildren": false
     }
   ],
   "footer": [
