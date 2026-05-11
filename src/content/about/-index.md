@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "¡Hola persona que quiere saber! Acá, The Learner."
 image: "/images/v.png"
 meta_title: ""
 description: ""
@@ -11,7 +11,7 @@ experience:
   title: ""
   list: []
 ---
-**¡Hola! Mi nombre es Viviana Lupi**
+**Mi nombre es Viviana Lupi.**
 
 Soy periodista, especialista en comunicación con algo de artista digital. Desde hace más tiempo del que voy a reconocer : D, trabajo en la intersección de la comunicación, la tecnología y la educación ejecutiva.&#x20;
 
