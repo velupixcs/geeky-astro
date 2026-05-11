@@ -16,8 +16,9 @@
       ]
     },
     {
-      "name": "About me",
-      "url": "/about"
+      "name": "About The Learner",
+      "url": "/about",
+      "hasChildren": true
     }
   ],
   "footer": [
@@ -37,5 +38,6 @@
       "name": "Politica de Privacidad",
       "url": "/privacy-policy"
     }
-  ]
+  ],
+  "draft": false
 }
