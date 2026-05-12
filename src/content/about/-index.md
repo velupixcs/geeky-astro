@@ -1,6 +1,6 @@
 ---
 title: "¡Hola persona que quiere saber! Acá, The Learner."
-image: ""
+image: "v.png"
 meta_title: "¡Hola persona que quiere saber! Acá, The Learner."
 description: "Haciendo click acá, podés conocer más de The Learner"
 education:
@@ -11,7 +11,7 @@ experience:
   title: ""
   list: []
 ---
-**Hola persona que quiere saber, mi nombre es Viviana Lupi.**
+**Hola persona que quiere saber, mi nombre es Viviana Lupi.**v.png
 
 Soy periodista, especialista en comunicación con algo de artista digital. Desde hace más tiempo del que voy a reconocer : D, trabajo en la intersección de la comunicación, la tecnología y la educación ejecutiva.&#x20;
 
