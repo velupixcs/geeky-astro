@@ -1,6 +1,6 @@
 ---
 title: "¡Hola persona que quiere saber! Acá, The Learner."
-image: "/images/Vivi L B&N Muy Baja.png"
+image: "/images/banner-author.png"
 meta_title: "¡Hola persona que quiere saber! Acá, The Learner."
 description: "Haciendo click acá, podés conocer más de The Learner"
 education:
