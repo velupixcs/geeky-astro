@@ -13,7 +13,9 @@ experience:
 ---
 **Hola persona que quiere saber, mi nombre es Viviana Lupi.**
 
-![](</images/Vivi L B\&N Muy Baja.png>)
+<aside>
+<img src="/images/Vivi L B\&N Muy Baja.png">
+</aside>
 
 Soy periodista, especialista en comunicación con algo de artista digital. Desde hace más tiempo del que voy a reconocer : D, trabajo en la intersección de la comunicación, la tecnología y la educación ejecutiva.&#x20;
 
