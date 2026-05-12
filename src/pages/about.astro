@@ -14,13 +14,19 @@ const { title, image, education, experience, description, meta_title } =
 <Base title={title} meta_title={meta_title} description={description}>
   <section class="section">
     <div class="container text-center">
+
+      <div class="content text-left">
+        <Content />
+      </div>
+
+    </div>
+    <aside class={lg:col-4 lg:mt-6`}>
       {
         image && (
-          <div class="mb-8">
+          <div>
             <Image
               src={image}
-              width={1298}
-              height={616}
+              width={250}
               alt={title || ""}
               class="rounded-lg"
               format="webp"
@@ -28,11 +34,6 @@ const { title, image, education, experience, description, meta_title } =
           </div>
         )
       }
-
-      <div class="content text-left">
-        <Content />
-      </div>
-
-    </div>
+    </aside>
   </section>
 </Base>
