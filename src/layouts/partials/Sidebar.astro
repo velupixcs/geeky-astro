@@ -157,35 +157,11 @@ const categoriesWithPostsCount = catagories.map((category) => {
   {
     newsletter.enable && (
       <div class="mt-6  rounded border border-border p-6 text-center dark:border-darkmode-border">
-        <h4 class="section-title">{newsletter.title}</h4>
-        <p class="mt-10 text-s">{newsletter.content}</p>
+        <!-- Optin - Inicio -->
         <div id="optin-3TVELFS7" data-type="inline"></div>
+        <link rel="stylesheet" type="text/css" href="https://optin.myperfit.com/res/css/thelearner/3TVELFS7.css"/>
         <script type="text/javascript" src="https://optin.myperfit.com/res/js/thelearner/3TVELFS7.js" charset="UTF-8"></script>
-        <form action="#" class="py-6">
-          <fieldset class="relative">
-            <input
-              class="newsletter-input form-input h-12 w-full rounded-3xl border-none bg-light! px-5! py-3! pr-12! text-text-dark placeholder:text-xs dark:bg-darkmode-dark!"
-              type="text"
-              placeholder="Type And Hit Enter"
-            />
-            <DynamicIcon
-              icon="FaEnvelope"
-              className="absolute top-1/2 right-5 -translate-y-1/2 text-xl transition duration-75"
-            />
-          </fieldset>
-          <button class="d-block  btn btn-primary mt-4 w-full" type="submit">
-            Sign In
-          </button>
-        </form>
-
-        <p class="text-[13px] font-medium text-prirmary">
-          By Singing Up, You Agree To
-          <a
-            href={newsletter.privacy_policy_page}
-            class="ml-1 underline decoration-wavy">
-            Privacy Policy
-          </a>
-        </p>
+        <!-- Optin - Fin -->
       </div>
     )
   }
