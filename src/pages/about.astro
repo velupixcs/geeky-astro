@@ -4,37 +4,39 @@ import { markdownify } from "@/lib/utils/textConverter";
 import { Image } from "astro:assets";
 import type { CollectionEntry } from "astro:content";
 import { getEntry, render } from "astro:content";
-
 const about = (await getEntry("about", "-index")) as CollectionEntry<"about">;
 const { Content } = await render(about);
 const { title, image, education, experience, description, meta_title } =
   about.data;
 ---
-
 <Base title={title} meta_title={meta_title} description={description}>
   <section class="section">
     <div class="container">
-      <div class="flex flex-col lg:flex-row gap-8">
-        
-        <div class="content text-left lg:col-8">
-          <Content />
+      <div class="flex flex-col lg:flex-row gap-8 items-start">
+
+        <div class="flex-1 text-left">
+          <h1
+            class="h1 lg:text-[55px] mt-12"
+            set:html={markdownify(title || "")}
+          />
+          <div class="content">
+            <Content />
+          </div>
         </div>
 
-        <aside class="lg:col-4 lg:mt-6">
-          {
-            image && (
-              <div>
-                <Image
-                  src={image}
-                  width={250}
-                  alt={title || ""}
-                  class="rounded-lg"
-                  format="webp"
-                />
-              </div>
-            )
-          }
-        </aside>
+        {
+          image && (
+            <aside class="lg:w-[300px] shrink-0">
+              <Image
+                src={image}
+                width={300}
+                alt={title || ""}
+                class="rounded-lg w-full"
+                format="webp"
+              />
+            </aside>
+          )
+        }
 
       </div>
     </div>
