@@ -13,10 +13,6 @@ experience:
 ---
 **Hola persona que quiere saber, mi nombre es Viviana Lupi.**
 
-<aside>
-<img src="/images/Vivi L B\&N Muy Baja.png">
-</aside>
-
 Soy periodista, especialista en comunicación con algo de artista digital. Desde hace más tiempo del que voy a reconocer : D, trabajo en la intersección de la comunicación, la tecnología y la educación ejecutiva.&#x20;
 
 Antes del Y2K trabajé mucho en radio y TV. Luego, desde el 2000 comencé a crear y curar contenidos sobre negocios y tecnología: en Intermanagers (HSM en ese momento) comenzamos con los newsletters y los webinars, usábamos una Palm, y se respiraba ebullición y entusiasmo por la llegada de Internet.&#x20;
