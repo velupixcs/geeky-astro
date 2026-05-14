@@ -38,7 +38,8 @@ const { title, social_links, meta_title, description } = contact.data;
           <form
             class="contact-form mt-12"
             method="POST"
-            action={contact_form_action}>
+            action="https://api.web3forms.com/submit">
+          <input type="hidden" name="access_key" value="8f737709-63df-4d8e-b3e7-92fcededf0f3">
             <div class="mb-6">
               <label class="mb-2 block font-secondary" for="name">
                 Nombre
