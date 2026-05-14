@@ -22,17 +22,16 @@ const { title, social_links, meta_title, description } = contact.data;
       <div class="row relative pb-16">
         <div class="lg:col-6">
           <h1
-            class="my-10 lg:my-11 lg:pt-11 text-center lg:text-left lg:text-[64px]"
+            class="my-10 lg:my-11 lg:pt-11 text-center lg:text-[64px]"
             set:html={markdownify(title || "")}
           />
         </div>
         <div
           class="contact-form-wrapper rounded border border-border p-6 dark:border-darkmode-border lg:col-6">
           <h2>
-            Send Us A
             <span
               class="ml-1.5 inline-flex items-center text-primary dark:text-darkmode-primary">
-              Message
+              Escribinos
               <DynamicIcon icon="FaArrowRight" />
             </span>
           </h2>
@@ -42,7 +41,7 @@ const { title, social_links, meta_title, description } = contact.data;
             action={contact_form_action}>
             <div class="mb-6">
               <label class="mb-2 block font-secondary" for="name">
-                Full name
+                Nombre
                 <small
                   class="font-secondary text-sm text-primary dark:text-darkmode-primary">
                   *</small
@@ -52,13 +51,13 @@ const { title, social_links, meta_title, description } = contact.data;
                 class="form-input w-full"
                 name="name"
                 type="text"
-                placeholder="Thomas Milano"
+                placeholder="Ejemplo Hernandez"
                 required
               />
             </div>
             <div class="mb-6">
               <label class="mb-2 block font-secondary" for="email">
-                Email Address
+                Dirección de Email
                 <small
                   class="font-secondary text-sm text-primary dark:text-darkmode-primary">
                   *</small
@@ -68,13 +67,13 @@ const { title, social_links, meta_title, description } = contact.data;
                 class="form-input w-full"
                 name="email"
                 type="email"
-                placeholder="example@gmail.com"
+                placeholder="ejemplo@gmail.com"
                 required
               />
             </div>
             <div class="mb-6">
               <label class="mb-2 block font-secondary" for="subject">
-                Subject
+                Asunto
                 <small
                   class="font-secondary text-sm text-primary dark:text-darkmode-primary">
                   *</small
@@ -90,7 +89,7 @@ const { title, social_links, meta_title, description } = contact.data;
             </div>
             <div class="mb-6">
               <label class="mb-2 block font-secondary" for="message">
-                Your Message Here
+                Tu mensaje
                 <small
                   class="font-secondary text-sm text-primary dark:text-darkmode-primary">
                   *</small
@@ -98,10 +97,10 @@ const { title, social_links, meta_title, description } = contact.data;
               </label>
               <textarea
                 class="form-textarea w-full"
-                placeholder="Hello I’m Mr ‘x’ from………….."
+                placeholder="Hola! Te escribo para saber si………….."
                 rows="7"></textarea>
             </div>
-            <input class="btn btn-primary" type="submit" value="Send Now" />
+            <input class="btn btn-primary" type="submit" value="Enviar" />
           </form>
         </div>
       </div>
