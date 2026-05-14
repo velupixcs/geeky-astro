@@ -6,8 +6,7 @@ phone: ""
 mail: "contacto@thelearner.net"
 location: ""
 form_action: ""
-social_links:
-  - ""
+social_links: []
 
 draft: false
 ---
