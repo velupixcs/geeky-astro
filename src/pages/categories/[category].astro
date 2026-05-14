@@ -33,12 +33,12 @@ const filterByCategories: CollectionEntry<"posts">[] = taxonomyFilter(
 <Base title={category}>
   <div class="section">
     <div class="container">
-      <h1 class="h2 mb-8">
-        Mostrando publicaciones de
+      <h2 class="mb-8">
+        Publicaciones de
         <span class="inline-block text-transform:uppercase">
-          {slugify(category!)}
+          {slugify(category!)}:
         </span>
-      </h1>
+      </h2>
       <div class="row">
         <div class="lg:col-8">
           <div
