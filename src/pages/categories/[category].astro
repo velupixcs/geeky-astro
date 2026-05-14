@@ -33,9 +33,9 @@ const filterByCategories: CollectionEntry<"posts">[] = taxonomyFilter(
 <Base title={category}>
   <div class="section">
     <div class="container">
-      <h1 class="h2 mb-12">
-        Showing posts from
-        <span class="section-title ml-1 inline-block capitalize">
+      <h1 class="h2 mb-6">
+        Mostrando publicaciones de
+        <span class="ml-1 inline-block">
           {slugify(category!)}
         </span>
       </h1>
@@ -52,7 +52,6 @@ const filterByCategories: CollectionEntry<"posts">[] = taxonomyFilter(
             }
           </div>
         </div>
-        <Sidebar posts={posts} className="max-lg:px-0 max-lg:mt-6" />
       </div>
     </div>
   </div>
