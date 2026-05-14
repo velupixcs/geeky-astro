@@ -1,6 +1,6 @@
 ---
 title: ""
-description: ""
+description: "Ponete en contacto"
 meta_title: ""
 phone: ""
 mail: "contacto@thelearner.net"
