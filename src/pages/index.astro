@@ -106,6 +106,8 @@ const featuredPosts = posts.filter((post) => post.data.featured);
                               class={`mb-6 flex flex-col sm:flex-row sm:items-center pb-6 last:max-md:pb-0 last:mb-0`}>
                               {/* Post Image */}
                               {image && (
+                              <a href={`/${post_folder}/${post.id}`}
+                                 class="block hover:text-primary">
                                 <Image
                                   class="sm:mr-3 max-sm:mb-2 max-sm:w-full sm:h-[85px] rounded object-cover"
                                   src={image}
@@ -115,6 +117,7 @@ const featuredPosts = posts.filter((post) => post.data.featured);
                                   format="webp"
                                   loading={index === 0 ? "eager" : "lazy"}
                                 />
+                              </a>
                               )}
                               <div>
                                 <h3 class="h5 mb-2">
