@@ -14,7 +14,7 @@
   "settings": {
     "search": true,
     "sticky_header": false,
-    "theme_switcher": false,
+    "theme_switcher": true,
     "default_theme": "system",
     "pagination": 6,
     "InnerPaginationOptions": {
