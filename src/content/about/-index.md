@@ -23,8 +23,8 @@ Trabajé como consultora en la estrategia de comunicación de algunas grandes em
 
 Así llegué en 2014 una vez más a la educación ejecutiva con MIND—Management Integral de Negocios Digitales, en la Universidad de San Andrés y Minders Group—para tratar de entender junto a fundadores e impulsores de las principales empresas digitales de Latinoamérica, el cambio profundo que traía la digitalización. Así pasaron once años, pandemia, y la llegada del blockchain, cripto, NFTs, y finalmente en 2022 los LLMs. &#x20;
 
-Ahora con **The Learner** busco crear un espacio en donde volcar conversaciones con gente que tiene observaciones y preguntas que me dejan pensando, material interesante, para seguir de cerca tendencias, fenómenos culturales, y cambios en la forma de hacer negocios.&#x20;
+Ahora con **The Learner** busco crear un espacio en donde volcar conversaciones con gente que tiene observaciones y preguntas que me dejan pensando, material interesante, tendencias, fenómenos culturales, y cambios en la forma de hacer negocios.&#x20;
 
-La idea también es que este espacio vaya cambiando, como todo.&#x20;
+La idea es que también este espacio vaya cambiando, como todo.&#x20;
 
 Gracias por tu curiosidad.&#x20;
