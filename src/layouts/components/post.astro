@@ -16,7 +16,9 @@ const { body, id } = Astro.props;
 <div class="post">
   <div class="relative">
     {
-      image && (
+      image && (     
+      <a href={`/${post_folder}/${id}`}
+      class="block py-0.5 hover:text-primary dark:hover:text-darkmode-primary">
         <Image
           class="rounded"
           src={image}
@@ -26,6 +28,7 @@ const { body, id } = Astro.props;
           format="webp"
           loading="lazy"
         />
+       </a>
       )
     }
 
