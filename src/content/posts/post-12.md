@@ -1,5 +1,5 @@
 ---
-title: "2026: Usted está aquí -o cerca de aquí-"
+title: "2026: Usted está aquí—o cerca de aquí"
 date: 2022-04-04T12:00:00.000Z
 image: /images/Mapped AI Adoption Rates by Country.png
 categories:
@@ -20,7 +20,5 @@ En el **segundo semestre de 2025, 1 de cada 6 personas del mundo utilizaba herra
 En cuanto al impacto en el negocio, para el [Latin America in the Intelligent Age (World Economic Forum y McKinsey](https://www.weforum.org/publications/latin-america-in-the-intelligent-age-a-new-path-for-growth/)), la adopción se está incrementando orientada a resolver mayormente cuestiones de productividad, más que a pensar nuevos modelos de negocio. **23% de las organizaciones latinoamericanas que utilizan IA dicen estar generando “algún valor" económico a partir de su implementación, mientras solo un 6% afirma crear un "valor significativo”.** De acuerdo al informe "la limitada aplicación de la IA analítica y la IA generativa a gran escala en las operaciones" podría explicar el bajo nivel actual de captación de valor de estas tecnologías. **El mayor impacto de las soluciones de IA lo perciben en especial las grandes empresas**, mientras que **59% de las pequeñas y medianas afirma no estar generando ningún valor medible a partir de su empleo**. A la vez las empresas que dicen no extraer valor también dicen que implementar la tecnología les lleva más de un año, mientras que las que sí generan valor tardan entre 6 y 9 meses en su ejecución.&#x20;
 
 > Lo que sigue llamando la atención es que **apenas 10% de los encuestados reconoce que su estrategia de IA está vinculada a su estrategia general** del **negocio, y en consecuencia tampoco saben cómo comunicarla dentro de la organización o cómo desarrollar/retener talento especializado.**
-
-​
 
 ​
