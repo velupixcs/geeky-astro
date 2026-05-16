@@ -2,9 +2,8 @@ import config from "@/config/config.json";
 import { humanize, plainify, slugify } from "@/lib/utils/textConverter";
 import type { CollectionEntry } from "astro:content";
 import Fuse from "fuse.js";
-import React, { useEffect, useRef, useState } from "react";
-import { FaRegFolder, FaSearch } from "react-icons/fa";
 import React, { useEffect, useMemo, useRef, useState } from "react";
+import { FaRegFolder, FaSearch } from "react-icons/fa";
 
 const { summary_length, post_folder } = config.settings;
 
