@@ -100,12 +100,12 @@ const Search = ({ searchList }: Props) => {
                 alt="no-search-found"
               />
               <h1 className="h2 mb-4">
-                {inputVal.length < 1 ? "Search Post Here" : "No Search Found!"}
+                {inputVal.length < 1 ? "Buscar publicación" : "No se encontró tu busqueda"}
               </h1>
               <p>
                 {inputVal.length < 1
-                  ? "Search for posts by title, category, or tag."
-                  : "We couldn't find what you searched for. Try searching again."}
+                  ? "Buscar publicaciones por título o tag"
+                  : "No se encontró lo que buscaste. Probá cambiar tu busqueda."}
               </p>
             </div>
           ) : (
