@@ -161,21 +161,21 @@ const categoriesWithPostsCount = catagories.map((category) => {
       <div id="optin-3TVELFS7" data-type="inline"></div>
       <link rel="stylesheet" type="text/css" href="https://optin.myperfit.com/res/css/thelearner/3TVELFS7.css"/>
       <script is:inline>
-        function loadPerfit() {
-          const existing = document.querySelector('script[src*="3TVELFS7.js"]');
-          if (existing) existing.remove();
-
-          const script = document.createElement('script');
-          script.src = 'https://optin.myperfit.com/res/js/thelearner/3TVELFS7.js';
-          script.charset = 'UTF-8';
-          document.body.appendChild(script);
-        }
-
-        // Run on first load
-        loadPerfit();
-
-        // Re-run after Astro page transitions
-        document.addEventListener('astro:page-load', loadPerfit);
+      function loadPerfit() {
+        // Only run if the optin div exists on this page
+        if (!document.getElementById('optin-3TVELFS7')) return;
+      
+        const existing = document.querySelector('script[src*="3TVELFS7.js"]');
+        if (existing) existing.remove();
+      
+        const script = document.createElement('script');
+        script.src = 'https://optin.myperfit.com/res/js/thelearner/3TVELFS7.js';
+        script.charset = 'UTF-8';
+        document.body.appendChild(script);
+      }
+      
+      loadPerfit();
+      document.addEventListener('astro:page-load', loadPerfit);
       </script>
       <!-- Optin - Fin -->
     </div>
