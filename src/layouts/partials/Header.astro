@@ -63,7 +63,7 @@ const { pathname } = Astro.url;
                       menu.children
                         ?.map(({ url }) => `${url}/`)
                         .includes(pathname)
-                        ? "active"
+                        ? ""
                         : ""
                     }`}>
                     {menu.name}
