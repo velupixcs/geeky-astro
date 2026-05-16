@@ -4,6 +4,7 @@ import type { CollectionEntry } from "astro:content";
 import Fuse from "fuse.js";
 import React, { useEffect, useRef, useState } from "react";
 import { FaRegFolder, FaSearch } from "react-icons/fa";
+import React, { useEffect, useMemo, useRef, useState } from "react";
 
 const { summary_length, post_folder } = config.settings;
 
@@ -31,12 +32,12 @@ const Search = ({ searchList }: Props) => {
     setInputVal(e.currentTarget.value);
   };
 
-  const fuse = new Fuse(searchList, {
+  const fuse = useMemo(() => new Fuse(searchList, {
     keys: ["data.title", "data.categories", "data.tags"],
     includeMatches: true,
     minMatchCharLength: 3,
     threshold: 0.5,
-  });
+  }), [searchList]);
 
   useEffect(() => {
     const searchUrl = new URLSearchParams(window.location.search);
