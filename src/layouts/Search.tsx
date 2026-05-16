@@ -31,12 +31,10 @@ const Search = ({ searchList }: Props) => {
     setInputVal(e.currentTarget.value);
   };
 
-  console.log("searchList", searchList);
-
   const fuse = useMemo(() => new Fuse(searchList, {
     keys: ["data.title", "data.categories", "data.tags"],
     includeMatches: true,
-    minMatchCharLength: 3,
+    minMatchCharLength: 1,
     threshold: 0.5,
   }), [searchList]);
 
@@ -53,8 +51,6 @@ const Search = ({ searchList }: Props) => {
 
   useEffect(() => {
     let inputResult = inputVal.length > 2 ? fuse.search(inputVal) : [];
-    console.log("inputVal:", inputVal);
-    console.log("inputResult:", inputResult);
     setSearchResults(inputResult);
 
     if (inputVal.length > 0) {
