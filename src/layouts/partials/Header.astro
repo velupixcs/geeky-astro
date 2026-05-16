@@ -79,7 +79,7 @@ const { pathname } = Astro.url;
                           class={`nav-dropdown-link block ${
                             (pathname === `${child.url}/` ||
                               pathname === child.url) &&
-                            "active"
+                            ""
                           }`}
                           aria-label="dropdown">
                           {child.name}
@@ -94,7 +94,7 @@ const { pathname } = Astro.url;
                     href={menu.url}
                     class={`nav-link ${
                       (pathname === `${menu.url}/` || pathname === menu.url) &&
-                      "active"
+                      ""
                     }`}>
                     {menu.name}
                   </a>
@@ -125,7 +125,7 @@ const { pathname } = Astro.url;
 
         <label
           for="nav-toggle"
-          class="order-3 w-10 h-10 cursor-pointer flex items-center lg:hidden dark:text-white lg:order-1 justify-center bg-primary rounded-full text-light ml-4">
+          class="order-3 w-10 h-10 cursor-pointer flex items-center lg:hidden dark:text-white lg:order-1 justify-center bg-primary dark:bg-darkmode-primary rounded-full text-light ml-4">
           <svg
             id="show-button"
             class="h-5 fill-current block"
