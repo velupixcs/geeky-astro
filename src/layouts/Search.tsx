@@ -31,6 +31,8 @@ const Search = ({ searchList }: Props) => {
     setInputVal(e.currentTarget.value);
   };
 
+  console.log("searchList", searchList);
+
   const fuse = useMemo(() => new Fuse(searchList, {
     keys: ["data.title", "data.categories", "data.tags"],
     includeMatches: true,
