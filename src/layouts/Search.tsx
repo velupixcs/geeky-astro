@@ -49,20 +49,22 @@ const Search = ({ searchList }: Props) => {
     }, 50);
   }, []);
 
-  useEffect(() => {
-    let inputResult = inputVal.length > 2 ? fuse.search(inputVal) : [];
-    setSearchResults(inputResult);
+useEffect(() => {
+  let inputResult = inputVal.length > 0 ? fuse.search(inputVal) : [];
+  console.log("inputVal:", inputVal);
+  console.log("inputResult:", inputResult);
+  setSearchResults(inputResult);
 
-    if (inputVal.length > 0) {
-      const searchParams = new URLSearchParams(window.location.search);
-      searchParams.set("q", inputVal);
-      const newRelativePathQuery =
-        window.location.pathname + "?" + searchParams.toString();
-      history.pushState(null, "", newRelativePathQuery);
-    } else {
-      history.pushState(null, "", window.location.pathname);
-    }
-  }, [inputVal]);
+  if (inputVal.length > 0) {
+    const searchParams = new URLSearchParams(window.location.search);
+    searchParams.set("q", inputVal);
+    const newRelativePathQuery =
+      window.location.pathname + "?" + searchParams.toString();
+    history.pushState(null, "", newRelativePathQuery);
+  } else {
+    history.pushState(null, "", window.location.pathname);
+  }
+}, [inputVal, fuse]);
 
   return (
     <section className="section">
