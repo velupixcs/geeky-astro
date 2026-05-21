@@ -19,6 +19,16 @@
       "name": "About The Learner",
       "url": "/about",
       "hasChildren": false
+    },
+    {
+      "name": "Highlights",
+      "url": "",
+      "children": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ]
     }
   ],
   "footer": [
