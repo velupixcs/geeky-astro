@@ -26,11 +26,6 @@
       ]
     },
     {
-      "name": "About The Learner",
-      "url": "/about",
-      "hasChildren": false
-    },
-    {
       "name": "1o1: Entrevistas",
       "url": "",
       "children": [
@@ -39,6 +34,11 @@
           "url": ""
         }
       ]
+    },
+    {
+      "name": "About The Learner",
+      "url": "/about",
+      "hasChildren": false
     }
   ],
   "footer": [
