@@ -12,8 +12,8 @@ banner:
     rel: ""
 
 featured_posts:
-  enable: false
-  title: Featured Posts
+  enable: true
+  title: Destacados
 
 promotion:
   enable: false
@@ -21,7 +21,7 @@ promotion:
   link: /contact
 
 recent_posts:
-  title: Lo más reciente
+  title: Recientes
   enable: true
 ---
 ​
