@@ -16,12 +16,22 @@
       ]
     },
     {
+      "name": "Highlights",
+      "url": "",
+      "children": [
+        {
+          "name": "",
+          "url": ""
+        }
+      ]
+    },
+    {
       "name": "About The Learner",
       "url": "/about",
       "hasChildren": false
     },
     {
-      "name": "Highlights",
+      "name": "1o1: Entrevistas",
       "url": "",
       "children": [
         {
