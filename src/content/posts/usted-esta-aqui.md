@@ -6,7 +6,7 @@ categories:
   - escenario
   - AI
   - Worldwide
-featured: true
+featured: false
 draft: false
 ---
 "_La IA corre mientras nosotros seguimos tratando de encontrar las zapatillas" (AI is sprinting, and the rest of us are trying to find our shoes")_, [dicen por estos días en el MIT](https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/), y aunque algunos encuentran sus zapatillas más rápido que otros, esa es la sensación. Pero también es cierto que correr sin tener una dirección (una meta), es un muy probable desgaste recursos y eso se ve en algunos estudios.
