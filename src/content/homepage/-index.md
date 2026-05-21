@@ -12,7 +12,7 @@ banner:
     rel: ""
 
 featured_posts:
-  enable: true
+  enable: false
   title: Destacados
 
 promotion:
