@@ -20,6 +20,10 @@ La velocidad de los avances es brutal: "**en 2025 la brecha entre los cuatro mej
 
 > **Ahora, al** [**evaluar a los agentes de IA en tareas informáticas reales en distintos sistemas operativos**](https://hai.stanford.edu/ai-index/2026-ai-index-report#chapters) **(OSWorld), siguen fallando aproximadamente 1 de cada 3 intentos. En lenguaje llano, no es posible delegarles tareas sin control.**
 
+###### Otra pregunta: ¿Hay burbuja financiera o no?
+
+_No lo sé Rick._[Esta muy buena infografía de Bloomberg ](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)ilustra el fenómeno de la _circularidad de los acuerdos_, un pasamanos de dinero dentro del ecosistema de empresas de IA que se invierten entre sí: las que reciben el dinero utilizan parte de la deuda para comprar infraestructura a las mismas empresas que se lo dieron y el resto lo utilizan para pagar a quienes los financiaron originalmente y así...tomala vos, dámela a mí.La presión para demostrar ganancias es tanta, que estamos frente a una cacería de usuarios, ante todo B2B, donde la billetera es mayor.[Algunos especialistas ](https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/)entienden que como ya se ven señales de que el negocio de la IA está funcionando, el riesgo de la burbuja explotando disminuyó bastante. Anthropic, ante todo es la que alimenta la esperanza de que no ocurra.En cuanto a posicionamiento y branding [las empresas de IA ya gastaron más de 1700 millones de dólares ](https://www.washingtonpost.com/technology/2026/02/08/super-bowl-ads-ai/?utm_campaign=wp_main\&utm_source=bluesky,facebook,threads,twitter\&utm_medium=social)en anuncios: en televisión, en servicios de streaming, en redes sociales, marquesinas, y grandes eventos como el Super Bowl para posicionarse. Es decir, [la inversión publicitaria ](https://www.inc.com/marty-swant/the-surprising-advertising-strategy-ai-companies-are-investing-in-to-stand-out/91281145)y la batalla en el terreno digital + físico, sigue vigente.&#x20;
+
 ###### **¿**&#x43;uál es la estrategia de las IA además de hacer juicios o generar FOMO?
 
 ##### **OpenAI**
@@ -64,7 +68,7 @@ Llegó desde China sin hacer demasiado ruido, con una estrategia low cost y open
 
 _En_ [_MIT_](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/) _y en_ [_Intuition Labs_](https://intuitionlabs.ai/articles/deepseek-inference-cost-explained)_._
 
-##### xAI
+##### SpaceX AI
 
 Ahora integrada a SpaceX, quiere ser un sistema para “comprender el universo con precisión y ayudar a la humanidad en su búsqueda del conocimiento” ... La IA de Elon Musk, no es la más popular fuera de X, pero es una de las más utilizadas a través de Grock, su asistente embebido en la exTwitter. De ahí extrae datos en tiempo real y accede al intercambio de información de más de 600 millones de usuarios de la plataforma. “Ve” desde adentro la evolución de noticias, tendencias y sentimiento social. Por eso una de sus ventajas es su poder predictivo. Su estrategia para ganar posiciones es justamente la integración vertical en Tesla y SpaceX. Para aumentar su poder de cómputo invierten una gran cantidad de recursos en Colossus I y II, sus enormes data center de Memphis. Musk sueña con llegar primero a la IAG, y quiere ser recordado como uno de sus padres. Y quiere que OpenAI [vuelva a ser una organización sin fines de lucro](https://www.courtlistener.com/docket/69013420/459/musk-v-altman/), lo que haría que xAI tenga un competidor menos y transformaría bastante el escenario.&#x20;
 
