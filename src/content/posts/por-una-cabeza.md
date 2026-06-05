@@ -22,7 +22,7 @@ La velocidad de los avances es brutal: "**en 2025 la brecha entre los cuatro mej
 
 ###### ¿Hay burbuja financiera o no?
 
-_No lo sé Rick._[ ](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)​
+_No lo sé._[ ](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)_Esta respuesta cambia todos los días Rick._
 
 Esta [infografía de FlowingData](https://flowingdata.com/2025/10/13/circular-deals-among-ai-companies/) muestra una parte de la _circularidad de los acuerdos_, un pasamanos de dinero dentro del ecosistema de empresas de IA que se invierten entre sí: las que reciben el dinero utilizan parte de la deuda para comprar infraestructura a las mismas empresas que se lo dieron y el resto lo utilizan para pagar a quienes los financiaron originalmente y así...tomala vos, dámela a mí.
 
