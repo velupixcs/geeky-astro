@@ -1,6 +1,6 @@
 ---
-title: "Por 0.25 cabeza"
-date: 2026-05-31T11:00:00.000Z
+title: "AI: Por 0.25 cabeza"
+date: 2026-06-03T11:00:00.000Z
 image: /images/statista-ai-model-performance-2023-2026-by-select-providers.png
 categories:
   - AI
@@ -28,9 +28,9 @@ Esta [infografía de FlowingData](https://flowingdata.com/2025/10/13/circular-de
 
 ![](/images/Screenshot_5-6-2026_05245_flowingdata.com.jpeg)
 
-La presión para demostrar ganancias es tanta, que se huele la cacería de usuarios, ante todo B2B, donde quedó claro, que la billetera es más grande y la presión para no quedar fuera del nuevo juego es mucha.
+La presión para demostrar ganancias es tanta, que se huele la cacería de usuarios, ante todo B2B, donde quedó claro que la billetera es más grande y la presión para no quedar fuera del nuevo juego es mucha.
 
-​[Algunos especialistas ](https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/)entienden que como ya se ven señales de que el negocio de la IA está funcionando, el riesgo de la burbuja explotando disminuyó bastante. Anthropic, es la que alimenta la esperanza de que no ocurra. Pero eso, es suficiente? Lo analistas esta semana volvieron a la carga a partir de datos de gastos de empresas en IA, valuaciones exorbitantes de las fabricantes de semiconductores, y famosos de ocasión que empiezan a promover inversiones en el sector al mejor estilo empresas de apuestas online.&#x20;
+​[Algunos especialistas ](https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/)entienden que como ya se ven señales de que el negocio de la IA está funcionando, el riesgo de la burbuja explotando disminuyó bastante. Anthropic, es la que alimenta la esperanza de que no ocurra. Pero, ¿alcanza? Esta semana analistas y medios volvieron a la carga con el fantasma de la burbuja a partir de datos de gastos de empresas en IA, [valuaciones exorbitantes de las fabricantes de semiconductores](https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic), y también de empresas de IA como [SpaceX que espera que espera una valuación de 1.75 trillones de dólares](https://www.ft.com/content/9aef0cce-6699-4a05-964e-b78152bc7d9f?syn-25a6b1a6=1), y famosos de ocasión que empiezan a promover inversiones en el sector al mejor estilo empresas de apuestas online o NFTs.&#x20;
 
 ###### **En este contexto, ¿**&#x63;uál es la estrategia de los diferentes modelos de IA además de generar FOMO y aprovechar la fama?
 
