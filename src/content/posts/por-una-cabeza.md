@@ -18,13 +18,21 @@ En el gráfico de abajo vemos a las distintas empresas de IA compitiendo cabeza 
 
 La velocidad de los avances es brutal: "**en 2025 la brecha entre los cuatro mejores modelos era de 97 puntos, mientras en marzo de 2026, es de menos de 25"** . Esa es la razón por la que hoy se vuelve más difícil distinguir a los modelos líderes a partir de su performance, dicen, y para diferenciarse comienzan a jugar factores tales como el costo y la confiabilidad, por ejemplo. Lo mismo sucede con la competencia entre los modelos de EE.UU. y China, en donde, según este mismo informe, también se acortó la brecha, y el liderazgo se alterna en favor de uno u otro país.
 
-> **Ahora, al** [**evaluar a los agentes de IA en tareas informáticas reales en distintos sistemas operativos**](https://hai.stanford.edu/ai-index/2026-ai-index-report#chapters) **(OSWorld), siguen fallando aproximadamente 1 de cada 3 intentos. En lenguaje llano, no es posible delegarles tareas sin control.**
+> **Pero, al** [**evaluar a los agentes de IA en tareas informáticas reales en distintos sistemas operativos**](https://hai.stanford.edu/ai-index/2026-ai-index-report#chapters) **(OSWorld), siguen fallando aproximadamente 1 de cada 3 intentos. En lenguaje llano, no es posible delegarles tareas sin control.**
 
-###### Otra pregunta: ¿Hay burbuja financiera o no?
+###### ¿Hay burbuja financiera o no?
 
-_No lo sé Rick._[Esta muy buena infografía de Bloomberg ](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)ilustra el fenómeno de la _circularidad de los acuerdos_, un pasamanos de dinero dentro del ecosistema de empresas de IA que se invierten entre sí: las que reciben el dinero utilizan parte de la deuda para comprar infraestructura a las mismas empresas que se lo dieron y el resto lo utilizan para pagar a quienes los financiaron originalmente y así...tomala vos, dámela a mí.La presión para demostrar ganancias es tanta, que estamos frente a una cacería de usuarios, ante todo B2B, donde la billetera es mayor.[Algunos especialistas ](https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/)entienden que como ya se ven señales de que el negocio de la IA está funcionando, el riesgo de la burbuja explotando disminuyó bastante. Anthropic, ante todo es la que alimenta la esperanza de que no ocurra.En cuanto a posicionamiento y branding [las empresas de IA ya gastaron más de 1700 millones de dólares ](https://www.washingtonpost.com/technology/2026/02/08/super-bowl-ads-ai/?utm_campaign=wp_main\&utm_source=bluesky,facebook,threads,twitter\&utm_medium=social)en anuncios: en televisión, en servicios de streaming, en redes sociales, marquesinas, y grandes eventos como el Super Bowl para posicionarse. Es decir, [la inversión publicitaria ](https://www.inc.com/marty-swant/the-surprising-advertising-strategy-ai-companies-are-investing-in-to-stand-out/91281145)y la batalla en el terreno digital + físico, sigue vigente.&#x20;
+_No lo sé Rick._[ ](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)​
 
-###### **¿**&#x43;uál es la estrategia de las IA además de hacer juicios o generar FOMO?
+Esta [infografía de FlowingData](https://flowingdata.com/2025/10/13/circular-deals-among-ai-companies/) muestra una parte de la _circularidad de los acuerdos_, un pasamanos de dinero dentro del ecosistema de empresas de IA que se invierten entre sí: las que reciben el dinero utilizan parte de la deuda para comprar infraestructura a las mismas empresas que se lo dieron y el resto lo utilizan para pagar a quienes los financiaron originalmente y así...tomala vos, dámela a mí.
+
+![](/images/Screenshot_5-6-2026_05245_flowingdata.com.jpeg)
+
+La presión para demostrar ganancias es tanta, que se huele la cacería de usuarios, ante todo B2B, donde quedó claro, que la billetera es más grande y la presión para no quedar fuera del nuevo juego es mucha.
+
+​[Algunos especialistas ](https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/)entienden que como ya se ven señales de que el negocio de la IA está funcionando, el riesgo de la burbuja explotando disminuyó bastante. Anthropic, es la que alimenta la esperanza de que no ocurra. Pero eso, es suficiente? Lo analistas esta semana volvieron a la carga a partir de datos de gastos de empresas en IA, valuaciones exorbitantes de las fabricantes de semiconductores, y famosos de ocasión que empiezan a promover inversiones en el sector al mejor estilo empresas de apuestas online.&#x20;
+
+###### **En este contexto, ¿**&#x63;uál es la estrategia de los diferentes modelos de IA además de generar FOMO y aprovechar la fama?
 
 ##### **OpenAI**
 
