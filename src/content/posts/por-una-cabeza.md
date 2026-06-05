@@ -1,44 +1,32 @@
 ---
 title: "Por 0.25 cabeza"
-date: 2026-05-11T11:00:00.000Z
-image: /images/Screenshot_11-5-2026_164041_hai.stanford.edu.jpeg
+date: 2026-05-31T11:00:00.000Z
+image: /images/statista-ai-model-performance-2023-2026-by-select-providers.png
 categories:
   - AI
   - Escenario
 featured: false
 draft: false
 ---
-_Los mejores modelos de IA hoy están separados por diferencias mínimas de rendimiento cuando se los compara con criterios similares, dice el_ [_HAI de Stanford_](https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance) _(Human Centered Artificial Intelligence de Stanford), que sigue esta evolución desde hace 9 años._
+"_Las preguntas más importantes ya no se centran únicamente en quién tiene los mejores modelos o el mayor número de chips. Ahora se trata de saber qué empresas son capaces de controlar los costos, utilizar la infraestructura de manera eficiente y convencer a los inversores de que la IA, aún tiene camino por recorrer"_. No lo dije yo, sino The Information esta semana, y es exactamente eso lo que se ve en el gráfico de abajo:
 
-En el gráfico de arriba vemos a las distintas empresas de IA compitiendo cabeza a cabeza dentro del [Arena](https://arena.ai/leaderboard) Leaderboard Dataset (tienen el link por si les interesa mirar en detalle).
+![](</images/AI Models Performance -MIT 2026.jpeg>)
 
-La velocidad de los avances despeina: "**en 2025 la brecha entre los cuatro mejores modelos era de 97 puntos, mientras en marzo de 2026, es de menos de 25"** . Esa es la razón por la que hoy se vuelve más difícil distinguir a los modelos líderes a partir de su performance, dicen, y para diferenciarse comienzan a jugar factores tales como el costo y la confiabilidad, por ejemplo. Lo mismo sucede con la competencia entre los modelos de EE.UU. y China, en donde, según este mismo informe, también se acortó la brecha, y el liderazgo se alterna en favor de uno u otro país.
+Los mejores modelos de IA hoy están separados por diferencias mínimas de rendimiento cuando se los compara con criterios similares, dice el [HAI de Stanford](https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance) (Human Centered Artificial Intelligence de Stanford), que sigue esta evolución desde hace 9 años.
+
+En el gráfico de abajo vemos a las distintas empresas de IA compitiendo cabeza a cabeza dentro del [Arena](https://arena.ai/leaderboard) Leaderboard Dataset (tienen el link por si les interesa mirar en detalle).
+
+La velocidad de los avances es brutal: "**en 2025 la brecha entre los cuatro mejores modelos era de 97 puntos, mientras en marzo de 2026, es de menos de 25"** . Esa es la razón por la que hoy se vuelve más difícil distinguir a los modelos líderes a partir de su performance, dicen, y para diferenciarse comienzan a jugar factores tales como el costo y la confiabilidad, por ejemplo. Lo mismo sucede con la competencia entre los modelos de EE.UU. y China, en donde, según este mismo informe, también se acortó la brecha, y el liderazgo se alterna en favor de uno u otro país.
 
 > **Ahora, al** [**evaluar a los agentes de IA en tareas informáticas reales en distintos sistemas operativos**](https://hai.stanford.edu/ai-index/2026-ai-index-report#chapters) **(OSWorld), siguen fallando aproximadamente 1 de cada 3 intentos. En lenguaje llano, no es posible delegarles tareas sin control.**
 
-#### ¿Hay burbuja financiera o no?
-
-_No lo sé Rick._
-
-​[Esta muy buena infografía de Bloomberg](https://www.bloomberg.com/graphics/2026-ai-circular-deals/) ilustra el fenómeno de la _circularidad de los acuerdos_, un pasamanos de dinero dentro del ecosistema de empresas de IA que se invierten entre sí: las que reciben el dinero utilizan parte de la deuda para comprar infraestructura a las mismas empresas que se lo dieron y el resto lo utilizan para pagar a quienes los financiaron originalmente y así...tomala vos, dámela a mí.
-
-La presión para demostrar ganancias es tanta, que estamos frente a una cacería de usuarios, ante todo B2B, donde la billetera es mayor.
-
-En [The Atlantic](https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/) entienden que como ya se ven señales de que el negocio de la IA está funcionando, el riesgo de la burbuja explotando disminuyó bastante. Anthropic, ante todo es la que alimenta la esperanza de que no ocurra .
-
-En cuanto a posicionamiento y branding [las empresas de IA ya gastaron más de 1700 millones de dólares](https://www.washingtonpost.com/technology/2026/02/08/super-bowl-ads-ai/?utm_campaign=wp_main\&utm_source=bluesky,facebook,threads,twitter\&utm_medium=social) en anuncios: en televisión, en servicios de streaming, en redes sociales, marquesinas, y grandes eventos como el Super Bowl para posicionarse. Es decir, [la inversión publicitaria](https://www.inc.com/marty-swant/the-surprising-advertising-strategy-ai-companies-are-investing-in-to-stand-out/91281145) y la batalla en el terreno digital + físico, sigue vigente.&#x20;
-
-#### **¿Qué estrategia están adoptando las más reconocidas del mercado para diferenciarse y monetizar?**
-
-_**&#x20;(además del FOMO)**_
+###### **¿**&#x43;uál es la estrategia de las IA además de hacer juicios o generar FOMO?
 
 ##### **OpenAI**
 
-Resuelto el juicio con Elon Musk, la marca más fuerte del B2C, busca transformarse en una super app, con muchos ánimos de lucro, ansía recuperar terreno en el B2B, donde Anthropic avanza. Su meta última es desarrollar la Inteligencia Artificial General (IAG). En abril cerraron una ronda de financiación de 122 mil millones de dólares (descomunal) y luego de esto también cerraron Sora porque -dijo Sam Altman- es muy cara de mantener y les saca el foco de su principal meta. Aprovechó la negativa de Anthropic a trabajar con ciertos proyectos del Pentágono, para acercarse al organismo estadounidense. Su estrategia contempla también desarrollo de hardware y diseñan junto a Jony Ive, ex CDO de Apple, [un nuevo dispositivo a través del cual se podría interactuar directamente con agentes de IA](https://thenextweb.com/news/openai-qualcomm-ai-phone-agents-replace-apps), (¿reemplazará al móvil?). En septiembre llega su IPO. En paralelo Sam Altman hace alianzas para expandir el uso de World (ex Worldcoin, la empresa que escaneaba iris oculares estaciones de trenes por 25 mil pesos), con Tinder, con Zoom, con Jared Leto, entre otros.
+Resuelto el juicio con Elon Musk, la marca más fuerte del B2C, busca transformarse en una super app, con muchos ánimos de lucro, ansía recuperar terreno en el B2B, donde Anthropic avanza. Su meta última es desarrollar la Inteligencia Artificial General (IAG). En abril cerraron una ronda de financiación de 122 mil millones de dólares (descomunal) y luego de esto también cerraron Sora porque -dijo Sam Altman- es muy cara de mantener y les saca el foco de su principal meta. Aprovechó la negativa de Anthropic a trabajar con ciertos proyectos del Pentágono, para acercarse al organismo estadounidense. Su estrategia contempla también desarrollo de hardware y diseñan junto a Jony Ive, ex CDO de Apple, [un nuevo dispositivo a través del cual se podría interactuar directamente con agentes de IA](https://thenextweb.com/news/openai-qualcomm-ai-phone-agents-replace-apps), (quieren reemplazar al móvil). En septiembre llega su IPO. En paralelo Sam Altman hace alianzas para expandir el uso de World (ex Worldcoin, la empresa que escaneaba iris oculares estaciones de trenes por 25 mil pesos), con Tinder, con Zoom, con Jared Leto, entre otros.
 
 _En_ [_Yahoo Finance_](https://finance.yahoo.com/news/openai-is-the-2025-yahoo-finance-company-of-the-year-120054312.html) _,_ [_CNBC_](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)_,_ [_Rest of the World_](https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/) y&#x20;
-
-_​_
 
 ##### **Anthropic**
 
