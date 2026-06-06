@@ -1,7 +1,7 @@
 ---
 title: "AI: Por 0.25 cabeza"
 date: 2026-06-03T11:00:00.000Z
-image: /images/statista-ai-model-performance-2023-2026-by-select-providers.png
+image: /images/Hoja cuadrille-The Learner 1-.png
 categories:
   - AI
   - Escenario
@@ -10,27 +10,23 @@ draft: false
 ---
 "_Las preguntas más importantes ya no se centran únicamente en quién tiene los mejores modelos o el mayor número de chips. Ahora se trata de saber qué empresas son capaces de controlar los costos, utilizar la infraestructura de manera eficiente y convencer a los inversores de que la IA, aún tiene camino por recorrer"_. No lo dije yo, sino The Information esta semana, y es exactamente eso lo que se ve en el gráfico de abajo:
 
-![](</images/AI Models Performance -MIT 2026.jpeg>)
+![](/images/statista-ai-model-performance-2023-2026-by-select-providers.png)
 
 Los mejores modelos de IA hoy están separados por diferencias mínimas de rendimiento cuando se los compara con criterios similares, dice el [HAI de Stanford](https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance) (Human Centered Artificial Intelligence de Stanford), que sigue esta evolución desde hace 9 años.
 
+​
+
 En el gráfico de abajo vemos a las distintas empresas de IA compitiendo cabeza a cabeza dentro del [Arena](https://arena.ai/leaderboard) Leaderboard Dataset (tienen el link por si les interesa mirar en detalle).
+
+​
 
 La velocidad de los avances es brutal: "**en 2025 la brecha entre los cuatro mejores modelos era de 97 puntos, mientras en marzo de 2026, es de menos de 25"** . Esa es la razón por la que hoy se vuelve más difícil distinguir a los modelos líderes a partir de su performance, dicen, y para diferenciarse comienzan a jugar factores tales como el costo y la confiabilidad, por ejemplo. Lo mismo sucede con la competencia entre los modelos de EE.UU. y China, en donde, según este mismo informe, también se acortó la brecha, y el liderazgo se alterna en favor de uno u otro país.
 
+​
+
 > **Pero, al** [**evaluar a los agentes de IA en tareas informáticas reales en distintos sistemas operativos**](https://hai.stanford.edu/ai-index/2026-ai-index-report#chapters) **(OSWorld), siguen fallando aproximadamente 1 de cada 3 intentos. En lenguaje llano, no es posible delegarles tareas sin control.**
 
-###### ¿Hay burbuja financiera o no?
-
-_No lo sé._[ ](https://www.bloomberg.com/graphics/2026-ai-circular-deals/)_Esta respuesta cambia todos los días Rick._
-
-Esta [infografía de FlowingData](https://flowingdata.com/2025/10/13/circular-deals-among-ai-companies/) muestra una parte de la _circularidad de los acuerdos_, un pasamanos de dinero dentro del ecosistema de empresas de IA que se invierten entre sí: las que reciben el dinero utilizan parte de la deuda para comprar infraestructura a las mismas empresas que se lo dieron y el resto lo utilizan para pagar a quienes los financiaron originalmente y así...tomala vos, dámela a mí.
-
-![](/images/Screenshot_5-6-2026_05245_flowingdata.com.jpeg)
-
-La presión para demostrar ganancias es tanta, que se huele la cacería de usuarios, ante todo B2B, donde quedó claro que la billetera es más grande y la presión para no quedar fuera del nuevo juego es mucha.
-
-​[Algunos especialistas ](https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/)entienden que como ya se ven señales de que el negocio de la IA está funcionando, el riesgo de la burbuja explotando disminuyó bastante. Anthropic, es la que alimenta la esperanza de que no ocurra. Pero, ¿alcanza? Esta semana analistas y medios volvieron a la carga con el fantasma de la burbuja a partir de datos de gastos de empresas en IA, [valuaciones exorbitantes de las fabricantes de semiconductores](https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic), y también de empresas de IA como [SpaceX que espera que espera una valuación de 1.75 trillones de dólares](https://www.ft.com/content/9aef0cce-6699-4a05-964e-b78152bc7d9f?syn-25a6b1a6=1), y famosos de ocasión que empiezan a promover inversiones en el sector al mejor estilo empresas de apuestas online o NFTs.&#x20;
+​
 
 ###### **En este contexto, ¿**&#x63;uál es la estrategia de los diferentes modelos de IA además de generar FOMO y aprovechar la fama?
 
