@@ -1,7 +1,7 @@
 ---
-title: ¿Burbuja financiera sí, o no?
+title: ¿Es aire envasado en una esfera? ¿Otra vez?
 date: 2026-06-06T20:34:00.000Z
-image: "/images/Pochoclos-573x483.png"
+image: "/images/Pochoclos-573x473.png"
 categories:
   - IA
   - Escenario
