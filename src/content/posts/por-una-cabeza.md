@@ -8,27 +8,21 @@ categories:
 featured: false
 draft: false
 ---
-"_Las preguntas más importantes ya no se centran únicamente en quién tiene los mejores modelos o el mayor número de chips. Ahora se trata de saber qué empresas son capaces de controlar los costos, utilizar la infraestructura de manera eficiente y convencer a los inversores de que la IA, aún tiene camino por recorrer"_. No lo dije yo, sino The Information esta semana, y es exactamente eso lo que se ve en el gráfico de abajo:
-
-![](/images/statista-ai-model-performance-2023-2026-by-select-providers.png)
+"_Las preguntas más importantes ya no se centran únicamente en quién tiene los mejores modelos o el mayor número de chips. Ahora se trata de saber qué empresas son capaces de controlar los costos, utilizar la infraestructura de manera eficiente y convencer a los inversores de que la IA, aún tiene camino por recorrer"_. No lo dije yo, sino The Information esta semana, y eso es lo que se observa en el gráfico de arriba.
 
 Los mejores modelos de IA hoy están separados por diferencias mínimas de rendimiento cuando se los compara con criterios similares, dice el [HAI de Stanford](https://hai.stanford.edu/ai-index/2026-ai-index-report/technical-performance) (Human Centered Artificial Intelligence de Stanford), que sigue esta evolución desde hace 9 años.
 
-​
-
 En el gráfico de abajo vemos a las distintas empresas de IA compitiendo cabeza a cabeza dentro del [Arena](https://arena.ai/leaderboard) Leaderboard Dataset (tienen el link por si les interesa mirar en detalle).
-
-​
 
 La velocidad de los avances es brutal: "**en 2025 la brecha entre los cuatro mejores modelos era de 97 puntos, mientras en marzo de 2026, es de menos de 25"** . Esa es la razón por la que hoy se vuelve más difícil distinguir a los modelos líderes a partir de su performance, dicen, y para diferenciarse comienzan a jugar factores tales como el costo y la confiabilidad, por ejemplo. Lo mismo sucede con la competencia entre los modelos de EE.UU. y China, en donde, según este mismo informe, también se acortó la brecha, y el liderazgo se alterna en favor de uno u otro país.
 
-​
-
 > **Pero, al** [**evaluar a los agentes de IA en tareas informáticas reales en distintos sistemas operativos**](https://hai.stanford.edu/ai-index/2026-ai-index-report#chapters) **(OSWorld), siguen fallando aproximadamente 1 de cada 3 intentos. En lenguaje llano, no es posible delegarles tareas sin control.**
 
-​
+**En este contexto**
 
-###### **En este contexto, ¿**&#x63;uál es la estrategia de los diferentes modelos de IA además de generar FOMO y aprovechar la fama?
+###### **¿**&#x43;uál es la estrategia de los diferentes modelos de IA además de generar FOMO y aprovechar la fama?
+
+(_Letra chica: el pivot de modelo siempre está a la vuelta de la esquina_)
 
 ##### **OpenAI**
 
