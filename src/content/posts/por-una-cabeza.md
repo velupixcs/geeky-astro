@@ -20,9 +20,9 @@ La velocidad de los avances es brutal: "**en 2025 la brecha entre los cuatro mej
 
 **En este contexto**
 
-###### **¿**&#x43;uál es la estrategia de los diferentes modelos de IA además de generar FOMO y aprovechar la fama?
+###### **¿**&#x43;uál es la estrategia de los diferentes modelos de IA además de crear temor de quedarse afuera y aprovechar la fama?
 
-(_Letra chica: el pivot de modelo siempre está a la vuelta de la esquina_)
+(_Letra chica: el pivot siempre está a la vuelta de la esquina_)
 
 ##### **OpenAI**
 
