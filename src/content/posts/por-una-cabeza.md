@@ -1,7 +1,7 @@
 ---
 title: "AI: Por 0.25 cabeza"
 date: 2026-06-03T11:00:00.000Z
-image: /images/Hoja cuadrille-The Learner 1-.png
+image: /images/Statista-Modelos Cuadrille 788x650.png
 categories:
   - AI
   - Escenario
