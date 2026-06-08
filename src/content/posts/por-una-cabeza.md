@@ -4,7 +4,6 @@ date: 2026-06-03T11:00:00.000Z
 image: /images/Por una Cabeza-Narnaja Cuadrillé-788x650.png
 categories:
   - AI
-  - Negocios
 featured: false
 draft: false
 ---
