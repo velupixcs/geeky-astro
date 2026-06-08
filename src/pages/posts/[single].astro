@@ -31,9 +31,8 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const { title, image, date, description, meta_title } = post.data;
+const { title, image, date, description, meta_title, categories } = post.data;
 const { Content } = await render(post);
-const categories = await getTaxonomy(post_folder, "categories");
 const postEntries = await getSinglePage("posts");
 const relatedPosts = similarItems(post, postEntries);
 ---
