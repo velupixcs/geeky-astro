@@ -27,7 +27,7 @@ La facturación proyectada de Anthropic (45 mil millones de dólares),  es lo qu
 
 Pero no todas las empresas tienen tienen algo concreto. Abundan la fe y las promesas. También abunda el lobby para que las empresas compren estas herramientas, y las usen.&#x20;
 
-Un gran número de organizaciones compró estas herramientas y las utilizan, pero un gran porcentaje todavía no siente los beneficios de la inversión (motivos varios, culturales y de estrategia, los[ datos e informes están aquí](https://thelearner.net/posts/usted-esta-aqui)) y ya se escucha hablar del enorme costo variable que representa el uso de IA, que no es equivalente a un simple fee mensual. ¿Veremos un ajuste en la industria? (no será en Nvidia)
+Un gran número de organizaciones compró estas herramientas y las utilizan, pero un gran porcentaje todavía no siente los beneficios de la inversión (motivos varios, culturales y de estrategia, los[ datos e informes están aquí](https://thelearner.net/posts/usted-esta-aqui)) y ya se escucha hablar[ del enorme costo variable que representa el uso de IA](https://www.forbes.com/sites/eriksherman/2026/05/27/the-ai-giants-see-a-potential-meltdown/), que no es equivalente a un simple fee mensual: ¿veremos un ajuste en la industria? (no será en Nvidia)
 
 Por supuesto el mercado es muy grande, y todavía estas empresas tienen margen para expandir sus tentáculos, casi sin límites.&#x20;
 
