@@ -19,17 +19,17 @@ Entonces, todo lo que suena a _inteligencia no humana_, tecnologías con nombres
 Por otro lado, si uno sigue de cerca al sector de la IA puede ver un fenómeno interesante. Esta [infografía de FlowingData](https://flowingdata.com/2025/10/13/circular-deals-among-ai-companies/) ilustra una parte de la _circularidad de los acuerdos_, un pasamanos de dinero dentro dentro del ecosistema de empresas de IA que se invierten entre sí: las que reciben el dinero utilizan parte de la deuda para comprar infraestructura a las mismas empresas que se lo dieron y el resto lo utilizan para pagar a quienes los financiaron originalmente y así. Por ejemplo, los acuerdos por poder de cómputo entre AWS y  OpenAI y Anthropic.&#x20;
 El último de los acuerdos: Google va a pagar 920 millones de dólares mensuales a SpaceX para que le provea poder de cómputo para procesar AI proveniente de sus masivos centros de datos Colossus, [lo anunciaron siete días antes de su IPO](https://coinpaper.com/17524/space-x-ipo-news-google-signs-920-m-monthly-compute-deal-ahead-of-listing).&#x20;
 
-¿Cuál es ll límite de esta economía que se muerde la cola?&#x20;
+¿Cuál es el límite de esta economía que se muerde la cola?&#x20;
 
 ![](/images/CircularDeals-FlowingData.com.png)
 
 La facturación proyectada de Anthropic (45 mil millones de dólares),  es lo que hace suponer a algunos analistas que el negocio de la IA está funcionando, y que el riesgo de la burbuja financiera ya pasó. Anthropic tiene entre manos un negocio que le está redituando y parece funcionar.
 
-Pero no todas las empresas tienen tienen algo concreto. Abundan la fe y las promesas. Abunda el lobby para que las empresas compren estas herramientas, y las usen.&#x20;
+Pero no todas las empresas tienen tienen algo concreto. Abundan la fe y las promesas. También abunda el lobby para que las empresas compren estas herramientas, y las usen.&#x20;
 
-Muchas organizaciones compraron estas herramientas y las utilizan, pero en muchos casos todavía no ven un impacto que justifique la inversión (motivos varios, culturales y de estrategia) y ya se escucha hablar del enorme costo variable que representa el uso de IA, que no es equivalente a un simple fee mensual. ¿Veremos un ajuste de inversiones?
+Un gran número de organizaciones compró estas herramientas y las utilizan, pero un gran porcentaje todavía no siente los beneficios de la inversión (motivos varios, culturales y de estrategia, los[ datos e informes están aquí](https://thelearner.net/posts/usted-esta-aqui)) y ya se escucha hablar del enorme costo variable que representa el uso de IA, que no es equivalente a un simple fee mensual. ¿Veremos un ajuste en la industria? (no será en Nvidia)
 
-Por supuesto el mercado es muy grande, y todavía tienen margen para crecer.
+Por supuesto el mercado es muy grande, y todavía estas empresas tienen margen para expandir sus tentáculos, casi sin límites.&#x20;
 
 Todas estas preguntas giran alrededor del próximo mega IPO de SpaceX, hecho a la medida de Elon Musk y muy parecido a un lanzamiento de Starship: descomunal tanto en ambiciones como riesgos. Si explota, el show está asegurado. &#x20;
 
