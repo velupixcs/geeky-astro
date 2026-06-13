@@ -6,7 +6,7 @@ banner:
   image_enable: false
   image: ""
   button:
-    enable: true
+    enable: false
     label: Suscribite al newsletter
     link: https://optin.myperfit.com/subscribe/thelearner/3TVELFS7
     rel: ""
