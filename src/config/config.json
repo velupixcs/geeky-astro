@@ -44,7 +44,7 @@
       "title": "Blog Categories"
     },
     "newsletter": {
-      "enable": true,
+      "enable": false,
       "title": "Newsletter",
       "content": "Sumate al newsletter quincenal y accedé a tendencias, entrevistas de tecnología y negocios ",
       "privacy_policy_page": "/privacy-policy",
