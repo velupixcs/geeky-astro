@@ -14,13 +14,11 @@ Por su recorrido, se trata de una voz interesante para acercarnos a las empresas
 
 Cada organización va a tener que plantearse -a conciencia- sus propias metas de cambio y qué rol juega la IA en ese recorrido, y encontrar nuevos modelos de negocio y de trabajo que sean compatibles con cada cultura y valores. Por eso -va a decir Pato- la verdadera adopción de IA no se mide en la cantidad de tokens que consume un equipo.
 
-​
-
 **En un  momento de tanta espuma y también de incertidumbre, ¿qué es lo que ves en términos de adopción de IA en la región?**
 
 La realidad hoy está definida en función de con quién se hable, porque depende mucho del estadio de cada organización. No se puede discutir qué trae o no la IA: el cambio de paradigma es cultural. Es decir, si la “transformación digital" siempre fue cultural, hoy este cambio lo es todavía más. **Podemos dividir la adopción de IA en dos: el _tooling_, que está a disposición y que, si no lo usás, es como negar el progreso, y la IA aplicada al modelo organizacional, que es muy distinta**. Si en la famosa “transformación digital” se esperaba que una persona cambiara la manera de pensar y de hacer sus tareas, y esa persona, con cierta reticencia, se adaptaba, hoy es muy probable que la posición que esa persona ocupaba deje de existir, entonces el desafío mucho es mayor. En una empresa tradicional, con más de 200 o 300 personas, que trabaja fuera del sector tecnológico, la adopción de todo esto va contra natura. De hecho en una empresa donde realmente se está usando IA, no se habla de IA.
 
-**¿En qué consiste  el cambio que se está produciendo dentro de las organizaciones?**
+**¿Cómo afecta la IA el rediseño de tareas de una organización?**
 
 Básicamente, **la IA te da un skill set, unas capacidades que antes no tenías, y que puede ser complementario a tus competencias, tu track record, o a tu formación académica. Esto hace que cualquier perfil en una organización multidisciplinaria pase de tener un solo skill a tres, como mínimo.** Y es ahí en donde cambia el diseño organizacional y la dinámica de trabajo. Por ejemplo, en un equipo de Product Engineering se necesitaba, hasta hace muy poco tiempo, un rol de diseño, otro de investigación, otro de project management, otro de product management, y otras posiciones. Se venía trabajando de ese modo porque era muy difícil tener menos roles, pero también la operación se había vuelto demasiado compleja. Hoy, de seis personas pasamos a tres: un ingeniero, la persona de producto y una persona líder de ingeniería. Todo eso necesita de un rediseño de procesos y de tareas.
 
