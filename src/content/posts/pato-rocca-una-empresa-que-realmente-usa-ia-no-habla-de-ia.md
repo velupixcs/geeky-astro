@@ -24,13 +24,9 @@ La realidad hoy está definida en función de con quién se hable, porque depend
 
 Básicamente, **la IA te da un skill set, unas capacidades que antes no tenías, y que puede ser complementario a tus competencias, tu track record, o a tu formación académica. Esto hace que cualquier perfil en una organización multidisciplinaria pase de tener un solo skill a tres, como mínimo.** Y es ahí en donde cambia el diseño organizacional y la dinámica de trabajo. Por ejemplo, en un equipo de Product Engineering se necesitaba, hasta hace muy poco tiempo, un rol de diseño, otro de investigación, otro de project management, otro de product management, y otras posiciones. Se venía trabajando de ese modo porque era muy difícil tener menos roles, pero también la operación se había vuelto demasiado compleja. Hoy, de seis personas pasamos a tres: un ingeniero, la persona de producto y una persona líder de ingeniería. Todo eso necesita de un rediseño de procesos y de tareas.
 
-​
-
 **En ese contexto, ¿qué significa la tan nombrada hibridez IA + humano?**
 
 Para mí, el skill set que una persona adquiere con la IA tiene que ser cohesivo con su actividad. Que un abogado termine programando es una excepción; podría hacerlo, pero muy difícilmente a nivel profesional. Me resulta mucho más interesante pensar, por ejemplo, que un comunicador puede convertirse en diseñador, o que un programador puede convertirse en una persona de producto o de negocio. Son saberes vinculantes de cada profesión. Ahora, si pensamos en un CEO con diez agentes, su trabajo va a ser de muy mala calidad, porque una IA resuelve lo básico: redacta emails sin nada de empatía, escribe documentos promedio; es decir, sirve para una empresa con pocos recursos, con una vara muy baja, que antes contrataba perfiles profesionales que también tenían ese nivel, pero no hace la diferencia. Por ahora, es así, pero ojo, avanza rápido.
-
-​
 
 **¿Qué clase de líder o qué tipo de liderazgo se necesita para llevar adelante esta transformación y cómo impacta en la cultura?**
 
@@ -46,4 +42,6 @@ Para mí se subestima completamente la narrativa, y la comunicación verbal o pr
 
 **¿Cuál es tu principal dolor hoy?**
 
-El dolor más grande es que hay tantas cosas pasando al mismo tiempo que es necesario separar la señal del ruido. Pertenezco a un grupo en el que hay 40 CTOs de Latinoamérica, con un nivel de ansiedad enorme, porque todos buscan innovar constantemente. Hay demasiado ruido y FOMO por no dejar de adoptar. Y, en realidad, se pierde muchísimo tiempo en esa experimentación con herramientas que desaparecen muy rápido. Entonces, para salir de esa espiral, la pregunta que me hago es qué están usando los referentes del mercado, qué veo que el mercado está adoptando como un commodity, y ese commodity es el que empiezo a usar. La red de contactos ayuda mucho a definirlo.
+El dolor más grande es que hay tantas cosas pasando al mismo tiempo que es necesario separar la señal del ruido. Soy parte de un grupo de 40 CTOs de Latinoamérica, con un nivel de ansiedad enorme, porque todos buscan innovar constantemente. Hay demasiado ruido y FOMO por no dejar de adoptar. Y lo que veo es que se pierde muchísimo tiempo en esa experimentación con herramientas que desaparecen muy rápido. Entonces, para salir de esa espiral, la pregunta que me hago es qué están usando los referentes del mercado, qué veo que el mercado está adoptando como un commodity, y ese commodity es el que empiezo a usar. La red de contactos ayuda mucho a definirlo.
+
+\*\*
