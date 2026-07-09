@@ -1,5 +1,5 @@
 ---
-title: 'Pato Rocca: "Una empresa que realmente usa IA, no habla de IA"'
+title: 'Pato Rocca: Una empresa que realmente usa IA, no habla de IA'
 date: 2026-07-09T18:26:00.000Z
 image: "/images/Patricio Rocca-788x600(1).png"
 categories:
