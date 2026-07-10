@@ -12,7 +12,7 @@ Si algo queda claro de esta conversación con **Pato Rocca, VP of Engineering en
 
 Hoy, dice Pato, la conversación pasa más por la eficiencia que por medir el consumo promedio de tokens por persona.&#x20;
 
-**En medio de tanta espuma e incertidumbre, ¿cómo ves la adopción de IA en las empresas?**
+**En medio de tanta espuma por un lado, e incertidumbre por el otro, ¿cómo ves la adopción de IA en las empresas?**
 
 La realidad hoy está definida en función de con quién se hable, porque depende mucho del estadio de cada organización. No se puede discutir qué trae o no la IA: el cambio de paradigma es cultural. Es decir, si la “transformación digital" siempre fue cultural, hoy este cambio lo es todavía más. **Podemos dividir la adopción de IA en dos: el _tooling_, que está a disposición y que, si no lo usás, es como negar el progreso, y la IA aplicada al modelo organizacional, que es muy distinta**. Si en la famosa “transformación digital” se esperaba que una persona cambiara la manera de pensar y de hacer sus tareas, y esa persona, con cierta reticencia, se adaptaba, hoy es muy probable que la posición que esa persona ocupaba deje de existir, entonces el desafío mucho es mayor. En una empresa tradicional, con más de 200 o 300 personas, que trabaja fuera del sector tecnológico, la adopción de todo esto va contra natura. De hecho en una empresa donde realmente se está usando IA, no se habla de IA.
 
