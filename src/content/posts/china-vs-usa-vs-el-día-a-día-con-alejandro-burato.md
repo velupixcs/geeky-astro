@@ -5,7 +5,7 @@ image: "/images/Ale Burato-BW-788x650.png"
 categories:
   - Charla
 featured: true
-draft: true
+draft: false
 ---
 *A pesar de la incertidumbre, de no saber hasta qué punto van a avanzar las herramientas de IA -ni cuántos trabajos, a ciencia cierta, va a reemplazar- Alejandro Burato, consultor,* Partner en Gödel Partners, *especialista en transformación y finanzas, es optimista. Desde Londres, donde vive y trabaja desde hace cinco años, opina sobre la dualidad del mundo conectado y desconectado a la vez, y de cómo una no tan simple app está cambiando su propio trabajo.*&#x20;
 
