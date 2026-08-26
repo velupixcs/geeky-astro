@@ -8,7 +8,7 @@ categories:
 featured: false
 draft: false
 ---
-###### **Atlas hizo monerías en el Mundial.**&#x20;
+***Atlas hizo monerías en el Mundial***
 
 Los asistentes, como se ve en la imagen, quisieron sacarle fotos. Algunos imaginando, tal vez, qué lindo sería tener uno en casa, otros preguntando ¿cuánto sale?, otros desconfiando de su baile, y pensando: estamos tan pero tan al horno o...,¿es una moda?
 
@@ -16,7 +16,9 @@ Atlas nació en 2013 en Boston Dynamics. Boston Dynamics es mucho anterior, fue 
 
 El 20 de julio pasado, Hyundai terminó de comprar el total de Boston Dynamics: le pagó a SoftBank alrededor de 325 millones de dólares por casi 10% que le quedaba. Ese mismo día miles de trabajadores de los 35 mil del complejo de Ulsan -la planta automotriz más grande del mundo en un solo sitio- decidieron escalar la huelga que habían comenzado días atrás, para exigir entre otras cosas, que ningún robot Atlas ingrese a una línea de producción en Corea sin antes tener el consentimiento sindical.&#x20;
 
-###### **Atlas no es tan simpático (para los trabajadores de Hyundai)**
+​
+
+***Atlas no es tan simpático (para los trabajadores de Hyundai)***
 
 Corea del Sur ocupa una posición única en el ámbito de la robótica industrial mundial: cuenta, con amplia ventaja, con la mayor densidad de robots industriales del mundo: [1.012 robots por cada 10.000 trabajadores](https://thelearner.tr.pemsv30.net/c/eyJhIjoidGhlbGVhcm5lciIsIm0iOiJtYWlsX2Ntc2NyZzZ4MmtxbGEwOTY1bHZvb2puMzMiLCJsIjoibGlua182OWQxNGZkM2Y0NjQ5OTRjYmVmMTdhYjhmMjkxMzRlYmIxMmI0YWRhXzEyMzMzMyIsImkiOltdLCJ1IjoiaHR0cHM6Ly93d3cucm9ib3RpY3NjZW50ZXIuYWkvcm9ib3RpY3MtbWFya2V0LXNvdXRoLWtvcmVhP3V0bV9zb3VyY2U9cGVyZml0JnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPUNvcGlhJTIwZGUlMjBUaGUlMjBMZWFybmVyJTIwMDMtMDgiLCJjIjoiIiwiaCI6IjEyN2Q5YiJ9) del sector manufacturero, según datos de la International Federation of Robotics. Y la industria automotriz, es una de las más robotizadas.&#x20;
 
@@ -26,7 +28,9 @@ Hyundai que emplea una gran cantidad de robots industriales, planea desplegar un
 
 El robot humanoide de 13 años de desarrollo, que carga hasta 50 kg, y cambia su batería de forma autónoma, no va a reemplazar a los robots industriales, dijo la empresa, sino que "va a complementarlos", algo que hasta ahora, era tarea del humano. Cada robot humanoide cuesta hoy entre 130 y 140 mil dólares, pero esa cifra descendería a cerca de 30 mil al escalar su producción, con un ROI estimado en dos años.
 
-###### **Hyundai we have a problem**
+​
+
+***Hyundai we have a problem***
 
 A la fecha Hyundai y el sindicato están analizando una propuesta de reforma salarial que "daría a los trabajadores de fábrica una mayor estabilidad de ingresos incluso luego de la implementación de robots humanoides", dijeron en The Korea Times. Pero **los directivos del sector anticipan una discusión mayor y preguntas para las que deberán ensayar soluciones, por ejemplo ¿cómo debe medirse la productividad en las fábricas impulsadas por IA?**
 
