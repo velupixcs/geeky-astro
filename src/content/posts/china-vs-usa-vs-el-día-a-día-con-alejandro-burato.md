@@ -1,7 +1,7 @@
 ---
 title: China vs USA vs el día a día, con Alejandro Burato 
 date: 2026-08-23T16:53:00.000Z
-image: "/images/Ale Burato-BW-788x650.png"
+image: "/images/Ale Burato-W-788x650.png"
 categories:
   - Charla
 featured: true
