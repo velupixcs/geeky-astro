@@ -1,7 +1,7 @@
 ---
 title: "2026: Usted está aquí—o cerca de aquí"
 date: 2022-05-31T12:00:00.000Z
-image: /images/AI Diffusion Microsoft -V Capitalista The Learner-668x638.png
+image: /images/AI Diffusion Microsoft..png
 categories:
   - escenario
   - AI
