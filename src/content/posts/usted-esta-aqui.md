@@ -1,7 +1,7 @@
 ---
 title: "2026: Usted está aquí—o cerca de aquí"
 date: 2022-05-31T12:00:00.000Z
-image: /images/Mapped AI Adoption by Country in 2026.png
+image: /images/AI Diffusion Microsoft -V Capitalista The Learner-668x638.png
 categories:
   - escenario
   - AI
@@ -9,7 +9,7 @@ categories:
 featured: false
 draft: false
 ---
-"_La IA corre mientras nosotros seguimos tratando de encontrar las zapatillas" (AI is sprinting, and the rest of us are trying to find our shoes")_, [dicen por estos días en el MIT](https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/), y aunque algunos encuentran sus zapatillas más rápido que otros, esa es la sensación. Pero también es cierto que correr sin tener una dirección (una meta), es un muy probable desgaste recursos y eso se ve en algunos estudios.
+"*La IA corre mientras nosotros seguimos tratando de encontrar las zapatillas" (AI is sprinting, and the rest of us are trying to find our shoes")*, [dicen por estos días en el MIT](https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/), y aunque algunos encuentran sus zapatillas más rápido que otros, esa es la sensación. Pero también es cierto que correr sin tener una dirección (una meta), es un muy probable desgaste recursos y eso se ve en algunos estudios.
 
 Por ejemplo según el nuevo estudio de Microsoft, [Global AI Difussion Q1 2026](https://www.microsoft.com/en-us/research/wp-content/uploads/2026/05/Microsoft-AI-Diffusion-Report-2026-Q1.pdf), llevado a gráfico arriba por [Visual Capitalist](https://www.visualcapitalist.com/mapped-ai-adoption-by-country-in-2026/) se está ampliando velozmente la diferencia en la adopción de IA en el hemisferio norte, donde creció casi el doble de rápido que en el hemisferio sur: **27.5% (24.7 en 2025) versus el 15.4% (14.1 en 2025).**&#x20;
 
@@ -21,7 +21,7 @@ Diferencias estructurales fundamentales en acceso a energía, internet y educaci
 
 ##### ¿Y Latinoamérica?
 
-**Dentro de ala región, los países que aventajan en infraestructura tecnológica, talento especializado, investigación, innovación, y gobernanza, son Brasil, Chile y Uruguay,** [de acuerdo al Latin American Artificial Intelligence Index (ILIA 2025, de CEPAL)](https://app.myperfit.com/gallery/private/%E2%80%8Bhttps:/www.cepal.org/es/publicaciones/82514-indice-latinoamericano-inteligencia-artificial-ilia-2025). Siguen **Argentina, Colombia, Costa Rica y Ecuador,** con un avance intermedio, y **limitantes ante todo en su capacidad de investigación y de innovación,** señalan. Solo tres países de la región tienen una estrategia definida en relación con la IA -dicen-, y estos son Chile, Brasil y Uruguay.&#x20;
+**Dentro de la región, los países que aventajan en infraestructura tecnológica, talento especializado, investigación, innovación, y gobernanza, son Brasil, Chile y Uruguay,** [de acuerdo al Latin American Artificial Intelligence Index (ILIA 2025, de CEPAL)](https://app.myperfit.com/gallery/private/%E2%80%8Bhttps:/www.cepal.org/es/publicaciones/82514-indice-latinoamericano-inteligencia-artificial-ilia-2025). Siguen **Argentina, Colombia, Costa Rica y Ecuador,** con un avance intermedio, y **limitantes ante todo en su capacidad de investigación y de innovación,** señalan. Solo tres países de la región tienen una estrategia definida en relación con la IA -dicen-, y estos son Chile, Brasil y Uruguay.&#x20;
 
 En cuanto al impacto en el negocio, para el [Latin America in the Intelligent Age (World Economic Forum y McKinsey](https://www.weforum.org/publications/latin-america-in-the-intelligent-age-a-new-path-for-growth/)), la adopción se está incrementando orientada a resolver mayormente cuestiones de productividad, más que a pensar nuevos modelos de negocio.
 
