@@ -25,7 +25,9 @@ const featuredPosts: CollectionEntry<"posts">[] = sortByDate(posts).filter(
 );
 const categoriesWithPostsCount = catagories.map((category) => {
   const filteredPosts = posts.filter((post) =>
-    post.data.categories?.includes(category)
+    post.data.categories?.some(
+      (postCategory) => slugify(postCategory) === category,
+    ),
   );
   return {
     name: category,
@@ -55,12 +57,12 @@ const categoriesWithPostsCount = catagories.map((category) => {
       <div class="mt-6 rounded border border-border p-6 dark:border-darkmode-border">
         <h4
           class="section-title mb-12 text-center"
-          set:text={markdownify(featured_posts.title)}
+          set:text={markdownify(categories.title)}
         />
         <ul>
           {categoriesWithPostsCount.map((category, i) => (
             <li
-              class={`relative mb-2 flex items-center justify-between pl-6 text-[16px] font-bold capitalize text-text-dark dark:text-darkmode-text-light ${
+              class={`relative mb-2 flex items-center justify-between pl-6 font-secondary text-[16px] font-bold uppercase text-text-dark dark:text-darkmode-text-light ${
                 i !== catagories.length - 1 &&
                 "border-b border-border  dark:border-darkmode-border"
               }`}>
