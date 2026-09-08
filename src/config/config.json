@@ -41,7 +41,7 @@
     },
     "categories": {
       "enable": true,
-      "title": "Blog Categories"
+      "title": "Categorías"
     },
     "newsletter": {
       "enable": false,
