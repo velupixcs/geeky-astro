@@ -11,7 +11,7 @@ experience:
   title: ""
   list: []
 ---
-**Mi nombre es Viviana Lupi.**
+**Hola, mi nombre es Viviana Lupi.**
 
 En primer lugar soy humana.
 
@@ -19,8 +19,8 @@ Soy periodista y tengo algo de artista digital.
 
 La vida me llevó a vivir la efervescencia de los comienzos de Internet desde adentro, en sitios de negocios primero (Intermanagers-HSM), y en programas universitarios especializados después (MIND - Minders Group).&#x20;
 
-Es decir, desde hace mucho me dedico a investigar y curar contenido sobre negocios, tendencias y tecnología, que luego vuelco webs, newsletters o en el diseño de cursos online.
+Es decir, desde hace mucho me dedico a investigar y curar contenido sobre negocios, tendencias y tecnología, que luego vuelco en webs, redes sociales, newsletters o aplico al diseño de cursos online. También desde hace bastante entrevisto a personas interesantes.
 
-Por todo eso, con **The Learner** busco crear un espacio de actualización y experimentación donde compartir hallazgos, ideas, y encontrar otras miradas para seguir indagando frente a tantos dilemas tecnológicos y humanos.&#x20;
+Por todo esto, con **The Learner** busco construir un espacio de actualización desde donde seguir indagando y donde compartir hallazgos, ideas, y miradas.
 
 Muchas gracias por pasar por acá.&#x20;
