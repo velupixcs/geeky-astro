@@ -13,11 +13,11 @@ const { title, image, author, categories } = data.data;
   {
     image && (
       <Image
-        class="mb-6 w-full rounded"
+        class="mb-6 aspect-[4/3] w-full rounded object-cover"
         src={image}
         alt={title}
         width={445}
-        height={230}
+        height={334}
         format="webp"
       />
     )

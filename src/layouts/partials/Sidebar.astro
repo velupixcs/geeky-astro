@@ -116,7 +116,7 @@ const categoriesWithPostsCount = catagories.map((category) => {
         {/* Featured  */}
         <div class="featured-tab block">
           {featuredPosts
-            .slice(0, featured_posts.showPost)
+            .slice(0, Number(featured_posts.showPost ?? 2))
             .map((post, i, arr) => (
               <div
                 class={`flex items-center pb-6 ${

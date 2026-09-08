@@ -73,14 +73,14 @@
 
 /* content style */
 .content {
-  @apply prose max-w-none;
+  @apply prose max-w-none text-[18px] leading-[1.8] prose-p:text-[18px] prose-p:leading-[1.8] prose-li:text-[18px] prose-li:leading-[1.8] prose-blockquote:text-[18px] prose-blockquote:leading-[1.8];
   @apply prose-headings:mt-[.5em] prose-headings:mb-[.9em] prose-headings:font-bold prose-headings:text-text-dark prose-headings:dark:text-white;
   @apply prose-h1:text-h1-sm md:prose-h1:text-h1;
   @apply prose-h2:text-h2-sm md:prose-h2:text-h2;
   @apply prose-h3:text-h3-sm md:prose-h3:text-h3;
-  @apply prose-hr:border-border prose-hr:dark:border-darkmode-border;
-  @apply prose-p:text-base prose-p:text-text prose-p:dark:text-darkmode-text-light;
-  @apply prose-blockquote:mb-12 prose-blockquote:rounded prose-blockquote:border-0 prose-blockquote:py-1 prose-blockquote:px-12 prose-blockquote:not-italic prose-blockquote:bg-light prose-blockquote:dark:bg-dark prose-blockquote:lg:px-16;
+  @apply prose-hr:border-[#C8BFAE] prose-hr:dark:border-darkmode-border;
+  @apply prose-p:text-text prose-p:dark:text-darkmode-text-light;
+  @apply prose-blockquote:mb-12 prose-blockquote:rounded prose-blockquote:border-0 prose-blockquote:py-1 prose-blockquote:px-12 prose-blockquote:not-italic prose-blockquote:bg-body prose-blockquote:dark:bg-darkmode-body prose-blockquote:lg:px-16;
   @apply prose-code:px-1 prose-code:text-primary prose-code:dark:text-darkmode-primary;
   @apply prose-pre:rounded;
   @apply prose-img:rounded;
@@ -102,6 +102,17 @@
   }
   ul li {
     @apply before:border-body dark:before:border-darkmode-body;
+  }
+
+  img {
+    @apply mx-auto my-8 block h-auto max-w-full rounded;
+    width: min(75%, 900px);
+  }
+
+  @media (max-width: 768px) {
+    img {
+      width: 100%;
+    }
   }
 
   img + em {
@@ -129,28 +140,33 @@
 /* banner */
 .banner {
   .banner-title {
-    h1 {
-      @apply font-bold leading-[1] lg:text-[72px];
+    @apply flex flex-col gap-1;
+
+    > span {
+      @apply block font-secondary font-bold leading-[1] tracking-[-0.04em] text-[#FA5E0D] dark:text-darkmode-text-light text-[18px] lg:text-[36px];
+    }
+
+    > span + span {
+      @apply text-[12px] font-bold text-text-dark dark:text-darkmode-text-light lg:text-[16px];
     }
 
     strong {
       @apply text-primary dark:text-darkmode-primary;
     }
-
-    span {
-      @apply text-[16px] font-normal font-bold text-[#FA5E0D] dark:text-darkmode-text-light lg:text-[28px];
-    }
-
-    subspan {
-      @apply text-[14px] font-bold text-text-dark dark:text-darkmode-text-light lg:text-[24px];
-    }
-    
   }
 }
 
 /* section-title */
 .section-title {
-  @apply mb-12 underline decoration-(--color-primary) dark:decoration-(--color-darkmode-primary) decoration-wavy decoration-2 underline-offset-[.5em];
+  @apply mb-12 font-primary font-normal underline decoration-(--color-primary) dark:decoration-(--color-darkmode-primary) decoration-wavy decoration-2 underline-offset-[.5em];
+}
+
+h2.section-title {
+  @apply text-[1.572rem] md:text-[1.965rem];
+}
+
+h4.section-title {
+  @apply text-[1.161rem] md:text-[1.451rem];
 }
 
 /* socials */

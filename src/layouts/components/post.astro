@@ -20,11 +20,11 @@ const { body, id } = Astro.props;
       <a href={`/${post_folder}/${id}`}
       class="block py-0.5 hover:text-primary dark:hover:text-darkmode-primary">
         <Image
-          class="rounded"
+          class="aspect-[4/3] w-full rounded object-cover"
           src={image}
           alt={title || ""}
           width={405}
-          height={208}
+          height={304}
           format="webp"
           loading="lazy"
         />
@@ -35,7 +35,7 @@ const { body, id } = Astro.props;
     <ul class="absolute top-3 left-2 flex flex-wrap items-center">
       {
         categories?.slice(0,1).map((tag) => (
-          <li class="font-secondary m-2 inline-flex h-7 rounded-[35px] bg-primary px-3 py-0 text-white">
+          <li class="font-secondary m-2 inline-flex h-7 rounded-[35px] bg-primary px-3 py-0 text-white dark:bg-darkmode-primary">
             <a
               aria-label="categories"
               class="uppercase"

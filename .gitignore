@@ -3,6 +3,8 @@ dist/
 .output/
 .json/
 
+.github/
+
 # dependencies
 node_modules/
 

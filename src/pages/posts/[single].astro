@@ -48,18 +48,18 @@ const relatedPosts = similarItems(post, postEntries);
                 image && (
                   <Image
                     src={image}
-                    height={500}
-                    width={1000}
+                    height={1200}
+                    width={1600}
                     alt={title ?? ""}
-                    class="rounded-lg"
+                    class="aspect-[4/3] w-full rounded-lg object-cover"
                     format="webp"
                   />
                 )
               }
               <ul class="absolute top-3 left-2 flex flex-wrap items-center">
                 {
-                  categories.map((tag) => (
-                    <li class="font-secondary m-2 inline-flex h-7 rounded-[35px] bg-primary px-3 text-white">
+                  (categories ?? []).map((tag) => (
+                    <li class="font-secondary m-2 inline-flex h-7 rounded-[35px] bg-primary px-3 text-white dark:bg-darkmode-primary">
                       <a
                         aria-label="categories"
                         class="uppercase"
