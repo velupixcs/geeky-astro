@@ -40,7 +40,7 @@
       "showPost": "2"
     },
     "categories": {
-      "enable": false,
+      "enable": true,
       "title": "Blog Categories"
     },
     "newsletter": {
