@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "Escenarios + Preguntas Curiosas + Insights "
+  title: "Escenarios + Preguntas + Insights "
   title_small: ""
   content: ""
   image_enable: false
