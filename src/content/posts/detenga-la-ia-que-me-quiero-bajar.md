@@ -24,7 +24,7 @@ Luego del [ataque de "un enjambre de agentes fanáticos devotos"](https://metr.o
 
 #### **La balacera de X**
 
-Lo particular de este ensayo, sospechado por un coro de críticos de diferente procedencia, es que, aunque propone una arquitectura para controlar la IA, solo la piensa para actores con la enorme escala de las empresas del tamaño de Anthropic, OpenAI, Google DeepMind, etc. y por eso, muchos expresaron sus dudas también en X.
+Lo particular de este ensayo, sospechado por un coro de críticos de diferente procedencia, es que, aunque propone una arquitectura para controlar la IA, solo la piensa para actores con la enorme escala de las empresas del tamaño de Anthropic, OpenAI, Google DeepMind, etc. y por eso, muchos manifestaron sus dudas también en X.
 
 > **Jason Calacanis, inversor y conductor de *The All In podcast*, y de *The Week in Startup***, como era de esperarse, [dijo](https://x.com/Jason/status/2098817101628600383), que Anthropic y OpenAI -cuyos modelos más avanzados *no* son de código abierto- buscan socavar a las empresas de IA *open source* impulsando regulaciones más fáciles de cumplir para firmas ya establecidas."*Si quieres seguridad, necesitas transparencia, y el código abierto es el proceso de transparencia definitivo"*, afirmó.&#x20;
 
@@ -39,8 +39,6 @@ Por lo pronto, [Sam Altman confirmó que OpenAI no saldrá a la bolsa este año]
 Anthropic, en cambio, va derechito a su IPO.
 
 *(No está demás decir que las ventas de Anthropic se incrementaron 143 por ciento en el segundo trimestre de este año comparado con el primero, y las de OpenAI, solo 18 por ciento)*
-
-​
 
 ***Más:***
 
