@@ -48,6 +48,6 @@ Anthropic, en cambio, va derechito a su IPO.
 - *Axios.* [*Anthropic Insiders warn AI could kill all humans* ](https://www.axios.com/2026/09/09/anthropic-insiders-warn-ai-could-kill-all-humans)
 - *Fortune YouTube.* [*Titans and Disruptors of Industry: Sam Altman*](https://www.youtube.com/watch?v=2my-NU6LuCM)
 - *Yahoo Finances:* [*Anthropic overtook OpenAI*](https://finance.yahoo.com/technology/ai/articles/anthropic-q2-revenue-overtook-openai-015716271.html)
--
+
 
 *\* El gráfico bastante simpático pertenece al brief de la investigación del ataque de OpenAI contra Hugging Face, de* [*METR*](https://metr.org/es/blog/2026-05-19-frontier-risk-report/#executive-summary-and-guide-to-the-report)​
