@@ -1,5 +1,4 @@
 ---
-import Pagination from "@/components/Pagination.astro";
 import Post from "@/components/post.astro";
 import { settings } from "@/config/config.json";
 import DynamicIcon from "@/helpers/DynamicIcon";
@@ -178,10 +177,13 @@ const featuredPosts = posts.filter((post) => post.data.featured);
             )
           }
 
-          <Pagination
-            totalPages={Math.ceil(posts.length / pagination)}
-            currentPage={1}
-          />
+          <div class="mt-6 text-center">
+            <a
+              class="btn rounded-full border-[#FA5E0D] bg-transparent px-8 py-2.5 font-bold text-[#FA5E0D] transition hover:bg-[#FA5E0D] hover:text-white active:bg-[#FA5E0D] active:text-white focus-visible:bg-[#FA5E0D] focus-visible:text-white"
+              href={`/${post_folder}`}>
+              Anteriores
+            </a>
+          </div>
         </div>
         <Sidebar className="lg:mt-0" posts={posts} />
       </div>
