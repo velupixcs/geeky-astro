@@ -1,5 +1,5 @@
 import config from "@/config/config.json";
-import { humanize, plainify, slugify } from "@/lib/utils/textConverter";
+import { humanize, markdownify, slugify } from "@/lib/utils/textConverter";
 import type { CollectionEntry } from "astro:content";
 import Fuse from "fuse.js";
 import React, { useEffect, useMemo, useRef, useState } from "react";
@@ -147,9 +147,14 @@ useEffect(() => {
                         ))}
                       </li>
                     </ul>
-                    <p className="mb-6">
-                      {plainify(item.content?.slice(0, Number(summary_length)))}
-                    </p>
+                    <div
+                      className="mb-6"
+                      dangerouslySetInnerHTML={{
+                        __html: markdownify(
+                          item.content?.slice(0, Number(summary_length)),
+                        ),
+                      }}
+                    />
                     <a
                       className="btn btn-outline-primary btn-sm"
                       href={`/${post_folder}/${item.slug}`}

@@ -55,10 +55,6 @@ const categoriesWithPostsCount = catagories.map((category) => {
   {
     categories.enable && (
       <div class="mt-6 rounded border border-border p-6 dark:border-darkmode-border">
-        <h4
-          class="section-title mb-12 text-center"
-          set:text={markdownify(categories.title)}
-        />
         <ul>
           {categoriesWithPostsCount.map((category, i) => (
             <li
