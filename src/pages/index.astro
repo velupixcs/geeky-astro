@@ -179,9 +179,14 @@ const featuredPosts = posts.filter((post) => post.data.featured);
 
           <div class="mt-6 text-center">
             <a
-              class="btn rounded-full border-[#FA5E0D] bg-transparent px-8 py-2.5 font-bold text-[#FA5E0D] transition hover:bg-[#FA5E0D] hover:text-white active:bg-[#FA5E0D] active:text-white focus-visible:bg-[#FA5E0D] focus-visible:text-white"
+              class="btn group inline-flex items-center rounded-full border-[#FA5E0D] bg-transparent px-8 py-2.5 font-bold text-[#FA5E0D] transition-colors duration-200 hover:bg-[#FA5E0D] hover:text-white active:bg-[#FA5E0D] active:text-white focus-visible:bg-[#FA5E0D] focus-visible:text-white"
               href={`/${post_folder}`}>
               Anteriores
+              <DynamicIcon
+                icon="FaArrowRight"
+                aria-hidden="true"
+                className="ml-2 h-4 w-4 transition-transform duration-200 group-hover:translate-x-1.5 group-focus-visible:translate-x-1.5 motion-reduce:transition-none motion-reduce:group-hover:translate-x-0 motion-reduce:group-focus-visible:translate-x-0"
+              />
             </a>
           </div>
         </div>

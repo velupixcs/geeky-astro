@@ -159,7 +159,7 @@ useEffect(() => {
                       className="btn btn-outline-primary btn-sm"
                       href={`/${post_folder}/${item.slug}`}
                     >
-                      read more
+                      Leer más
                     </a>
                   </div>
                 </div>

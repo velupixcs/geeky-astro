@@ -13,14 +13,14 @@ const { image, title, date, categories } = Astro.props.data;
 const { body, id } = Astro.props;
 ---
 
-<div class="post">
+<div class="post group transition-transform duration-300 ease-out hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none">
   <div class="relative">
     {
       image && (     
       <a href={`/${post_folder}/${id}`}
-      class="block py-0.5 hover:text-primary dark:hover:text-darkmode-primary">
+      class="block overflow-hidden rounded py-0.5 hover:text-primary dark:hover:text-darkmode-primary">
         <Image
-          class="aspect-[4/3] w-full rounded object-cover"
+          class="aspect-[4/3] w-full rounded object-cover transition-transform duration-500 group-hover:scale-[1.03] motion-reduce:transition-none"
           src={image}
           alt={title || ""}
           width={405}
@@ -50,7 +50,7 @@ const { body, id } = Astro.props;
   <h3 class="h5 mb-2 mt-4">
     <a
       href={`/${post_folder}/${id}`}
-      class="block py-0.5 hover:text-primary dark:hover:text-darkmode-primary">
+      class="block py-0.5 transition-colors duration-200 group-hover:text-primary hover:text-primary dark:group-hover:text-darkmode-primary dark:hover:text-darkmode-primary motion-reduce:transition-none">
       {title}
     </a>
   </h3>
@@ -67,6 +67,6 @@ const { body, id } = Astro.props;
     class="btn btn-outline-primary mt-4"
     href={`/${post_folder}/${id}`}>
     <span class="sr-only">{title}</span>
-    Read More
+    Leer más
   </a>
 </div>

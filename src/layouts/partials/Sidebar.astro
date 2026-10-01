@@ -13,18 +13,19 @@ import type { CollectionEntry } from "astro:content";
 
 type Props = {
   posts: CollectionEntry<"posts">[];
+  categoryPosts?: CollectionEntry<"posts">[];
   className?: string;
 };
 
 const { post_folder } = settings;
 const { about, categories, featured_posts, newsletter } = widgets;
-const { posts, className } = Astro.props;
+const { posts, categoryPosts = posts, className } = Astro.props;
 const catagories = await getTaxonomy("posts", "categories");
 const featuredPosts: CollectionEntry<"posts">[] = sortByDate(posts).filter(
   (post) => post.data.featured
 );
 const categoriesWithPostsCount = catagories.map((category) => {
-  const filteredPosts = posts.filter((post) =>
+  const filteredPosts = categoryPosts.filter((post) =>
     post.data.categories?.some(
       (postCategory) => slugify(postCategory) === category,
     ),

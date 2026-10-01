@@ -102,6 +102,7 @@ const relatedPosts = similarItems(post, postEntries);
         </div>
         <Sidebar
           posts={postEntries.filter((singlePost) => singlePost.id !== post.id)}
+          categoryPosts={postEntries}
         />
       </div>
     </div>
