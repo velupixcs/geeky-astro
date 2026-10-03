@@ -3,7 +3,7 @@ body.menu-open {
 }
 
 .header {
-  @apply top-0 z-50 border-b border-[#C8BFAE] bg-body py-[24px] dark:border-darkmode-border dark:bg-darkmode-body;
+  @apply top-0 z-50 border-b border-[#C8BFAE] bg-body py-[19px] dark:border-darkmode-border dark:bg-darkmode-body;
 }
 
 .backdrop {

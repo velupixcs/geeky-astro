@@ -6,15 +6,12 @@ import Disqus from "@/helpers/Disqus";
 import DynamicIcon from "@/helpers/DynamicIcon";
 import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
-import { getTaxonomy } from "@/lib/taxonomyParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
 import similarItems from "@/lib/utils/similarItems";
 import { markdownify } from "@/lib/utils/textConverter";
-import Sidebar from "@/partials/Sidebar.astro";
-import { slugify } from "@/lib/utils/textConverter";
 import { Image } from "astro:assets";
 import { type CollectionEntry, render } from "astro:content";
-const { post_folder, InnerPaginationOptions } = settings;
+const { InnerPaginationOptions } = settings;
 
 type Props = {
   post: CollectionEntry<"posts">;
@@ -32,7 +29,7 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const { title, image, date, description, meta_title, categories } = post.data;
+const { title, image, date, description, meta_title } = post.data;
 const { Content } = await render(post);
 const postEntries = await getSinglePage("posts");
 const relatedPosts = similarItems(post, postEntries);
@@ -42,8 +39,8 @@ const relatedPosts = similarItems(post, postEntries);
   <section class="section single-blog">
     <div class="container">
       <div class="row">
-        <div class="lg:col-8">
-          <article>
+        <div class="col-12">
+          <article class="mx-auto w-full lg:w-1/2">
             <div class="relative">
               {
                 image && (
@@ -57,20 +54,6 @@ const relatedPosts = similarItems(post, postEntries);
                   />
                 )
               }
-              <ul class="absolute top-3 left-2 flex flex-wrap items-center">
-                {
-                  (categories ?? []).map((tag) => (
-                    <li class="font-secondary m-2 inline-flex h-7 rounded-[35px] bg-primary px-3 text-white dark:bg-darkmode-primary">
-                      <a
-                        aria-label="categories"
-                        class="uppercase"
-                        href={`/categories/${slugify(tag)}`}>
-                        {tag}
-                      </a>
-                    </li>
-                  ))
-                }
-              </ul>
             </div>
             {
               InnerPaginationOptions.enableTop && (
@@ -81,7 +64,8 @@ const relatedPosts = similarItems(post, postEntries);
             }
 
             <h1
-              class="lg:text-[42px] mt-4 mb-2"
+              id="article-title"
+              class="scroll-mt-[calc(6rem_+_1em)] lg:text-[42px] mt-4 mb-2"
               set:text={markdownify(title ?? "")}
             />
             <ul class="flex items-center space-x-4 mb-2">
@@ -96,14 +80,10 @@ const relatedPosts = similarItems(post, postEntries);
             </div>
             {InnerPaginationOptions.enableBottom && <InnerPagination />}
           </article>
-          <div class="mt-16">
+          <div class="mx-auto mt-16 w-full lg:w-1/2">
             {disqus.enable && <Disqus client:load />}
           </div>
         </div>
-        <Sidebar
-          posts={postEntries.filter((singlePost) => singlePost.id !== post.id)}
-          categoryPosts={postEntries}
-        />
       </div>
     </div>
 
@@ -122,3 +102,17 @@ const relatedPosts = similarItems(post, postEntries);
     </div>
   </section>
 </Base>
+
+<script>
+  document.addEventListener("astro:page-load", () => {
+    const articleTitle = document.getElementById("article-title");
+    if (!articleTitle) return;
+
+    articleTitle.scrollIntoView({
+      behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches
+        ? "auto"
+        : "smooth",
+      block: "start",
+    });
+  });
+</script>
