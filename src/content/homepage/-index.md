@@ -21,7 +21,7 @@ promotion:
   link: /contact
 
 recent_posts:
-  title: Recientes
+  title: Artículos
   enable: true
 ---
 ​

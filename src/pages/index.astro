@@ -166,7 +166,7 @@ const featuredPosts = posts.filter((post) => post.data.featured);
                 />
                 <div class="rounded border border-border p-6 dark:border-darkmode-border">
                   <div class="row">
-                    {sortedPost.slice(0, pagination).map((post) => (
+                    {sortedPost.slice(0, 4).map((post) => (
                       <div class="mb-8 md:col-6">
                         <Post {...post} />
                       </div>
