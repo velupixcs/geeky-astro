@@ -76,6 +76,28 @@ const pagesCollection = defineCollection({
     meta_title: z.string().optional(),
     description: z.string().optional(),
     draft: z.boolean(),
+    highlights: z
+      .array(
+        z
+          .object({
+            date: z.coerce.date(),
+            title: z.string(),
+            summary: z.string(),
+            url: z
+              .string()
+              .url()
+              .refine((value) => {
+                try {
+                  const protocol = new URL(value).protocol;
+                  return protocol === "http:" || protocol === "https:";
+                } catch {
+                  return false;
+                }
+              }, "URL must use http or https"),
+          })
+          .strict(),
+      )
+      .optional(),
   }),
 });
 
