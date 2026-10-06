@@ -18,13 +18,21 @@ type Props = {
 };
 
 const { post_folder } = settings;
-const { about, categories, featured_posts, newsletter } = widgets;
+const {
+  about,
+  categories,
+  featured_posts,
+  highlights: highlightsWidget,
+  newsletter,
+} = widgets;
 const { posts, categoryPosts = posts, className } = Astro.props;
 const catagories = await getTaxonomy("posts", "categories");
 const featuredPosts: CollectionEntry<"posts">[] = sortByDate(posts).filter(
   (post) => post.data.featured
 );
-const highlightsPage = await getEntry("pages", "highlights");
+const highlightsPage = highlightsWidget.enable
+  ? await getEntry("pages", "highlights")
+  : undefined;
 const highlights =
   highlightsPage && highlightsPage.data.draft !== true
     ? [...(highlightsPage.data.highlights ?? [])]
@@ -59,29 +67,31 @@ const categoriesWithPostsCount = catagories.map((category) => {
     )
   }
 
-  <div class="mt-6 rounded border border-border p-6 dark:border-darkmode-border">
-    <h4 class="section-title text-center">Highlights</h4>
-    {
-      highlights.length > 0 && (
-        <div class="mt-6 space-y-6">
-          {highlights.map((highlight) => (
-            <article>
-              <h3 class="h5">{highlight.title}</h3>
-              <p class="mt-2 text-sm">{highlight.summary}</p>
-              <p class="mt-4 text-sm italic">
-                Más en{" "}
-                <a
-                  class="text-primary hover:underline dark:text-darkmode-primary"
-                  href={highlight.url}>
-                  {new URL(highlight.url).hostname.replace(/^www\./, "")}
-                </a>
-              </p>
-            </article>
-          ))}
-        </div>
-      )
-    }
-  </div>
+  {
+    highlightsWidget.enable && (
+      <div class="mt-6 rounded border border-border p-6 dark:border-darkmode-border">
+        <h4 class="section-title text-center">Highlights</h4>
+        {highlights.length > 0 && (
+          <div class="mt-6 space-y-6">
+            {highlights.map((highlight) => (
+              <article>
+                <h3 class="h5">{highlight.title}</h3>
+                <p class="mt-2 text-sm">{highlight.summary}</p>
+                <p class="mt-4 text-sm italic">
+                  Más en{" "}
+                  <a
+                    class="text-primary hover:underline dark:text-darkmode-primary"
+                    href={highlight.url}>
+                    {new URL(highlight.url).hostname.replace(/^www\./, "")}
+                  </a>
+                </p>
+              </article>
+            ))}
+          </div>
+        )}
+      </div>
+    )
+  }
 
   {/* categories widget */}
   {

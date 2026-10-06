@@ -39,6 +39,9 @@
       "title": "Blog Categories",
       "showPost": "2"
     },
+    "highlights": {
+      "enable": true
+    },
     "categories": {
       "enable": true,
       "title": "Categorías"
