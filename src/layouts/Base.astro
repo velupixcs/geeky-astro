@@ -33,7 +33,10 @@ const { title, meta_title, description, image, noindex, canonical } =
 <html lang="en">
   <head>
     <!-- favicon -->
-    <link rel="shortcut icon" href={config.site.favicon} />
+    <link
+      rel="icon"
+      href={config.site.favicon || `${import.meta.env.BASE_URL}the-learner-icon.svg`}
+    />
     <!-- theme meta -->
     <meta name="theme-name" content="geeky-astro" />
     <meta name="msapplication-TileColor" content="#000000" />
