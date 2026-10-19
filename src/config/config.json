@@ -40,7 +40,7 @@
       "showPost": "2"
     },
     "highlights": {
-      "enable": false
+      "enable": true
     },
     "categories": {
       "enable": true,
