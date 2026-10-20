@@ -11,7 +11,7 @@ highlights:
     url: https://www.tecweek.com.ar/
   - date: 2026-10-19T23:06:08.435Z
     title: Los grandes bancos no van a dejar que agentes de IA externos muevan dinero
-    summary: Riesgos para el usuario (y también para el negocio)
+    summary: Alegan riesgos para el usuario (pero ante todo para el negocio)
     url: https://www.pymnts.com/news/artificial-intelligence/2026/big-banks-will-not-let-outside-ai-agents-move-money/
   - date: 2026-10-19T23:17:59.264Z
     title: 'Evento: Marketing Shake Up, "Agentic Marketing: cómo no perder al Human
