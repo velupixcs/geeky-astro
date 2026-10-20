@@ -19,7 +19,7 @@ highlights:
     summary: El encuentro de la Data & Marketing Association Argentina. 20/10
     url: https://www.eventbrite.com.ar/e/marketing-shake-up-2026-como-no-perder-al-human-in-the-ia-loop-tickets-2000966088435
   - date: 2026-10-20T00:21:18.906Z
-    title: Anthropic investiga biología en su nuevo 'wet lab'
+    title: Anthropic investiga biología en su nuevo "wet lab"
     summary: Es para realizar trabajos de biología -física y preclínicos- utilizando
       Claude para explorar secuencias de ADN, entre otras cosas
     url: https://www.the-scientist.com/anthropic-s-secretive-ai-powered-wet-lab-breaks-cover-and-makes-first-discovery-75037
