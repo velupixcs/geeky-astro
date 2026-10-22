@@ -1,6 +1,6 @@
 ---
 title: "Highlights"
-meta_title: "Highlights"
+meta_title: "Destacados"
 description: ""
 draft: false
 highlights:
