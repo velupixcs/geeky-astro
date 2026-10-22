@@ -1,5 +1,5 @@
 ---
-title: "Highlights"
+title: "Destacados"
 meta_title: "Destacados"
 description: ""
 draft: false
