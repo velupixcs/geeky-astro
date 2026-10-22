@@ -32,7 +32,8 @@ highlights:
       modelos de colaboración de la industria financiera.
     url: https://argentinafintechforum.com/
   - date: 2026-10-22T22:57:30.795Z
-    title: ""
-    summary: ""
-    url: ""
+    title: Media Party Buenos Aires 2026
+    summary: 29 y 30 de Octubre. Este año explora cómo deberían adaptarse las
+      redacciones y creadores de contenidos a la era post -search.
+    url: https://www.eventbrite.com.ar/e/media-party-buenos-aires-2026-tickets-1996823376472
 ---
