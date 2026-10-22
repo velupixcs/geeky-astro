@@ -23,4 +23,16 @@ highlights:
     summary: Es para realizar trabajos de biología -física y preclínicos- utilizando
       Claude para explorar secuencias de ADN, entre otras cosas
     url: https://www.the-scientist.com/anthropic-s-secretive-ai-powered-wet-lab-breaks-cover-and-makes-first-discovery-75037
+  - date: 2026-10-22T22:32:55.188Z
+    title: Argentina Fintech Forum 2026
+    summary: >-
+      Se realizará el 29 de Octubre. Para discutir las tecnologías, regulaciones
+      y
+
+      modelos de colaboración de la industria financiera.
+    url: https://argentinafintechforum.com/
+  - date: 2026-10-22T22:57:30.795Z
+    title: ""
+    summary: ""
+    url: ""
 ---
