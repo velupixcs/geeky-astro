@@ -160,10 +160,6 @@ const featuredPosts = posts.filter((post) => post.data.featured);
           {
             recent_posts.enable && (
               <div class="section mt-0 mb-6 py-0">
-                <h2
-                  class="section-title"
-                  set:html={markdownify(recent_posts.title)}
-                />
                 <div class="rounded border border-border p-6 dark:border-darkmode-border">
                   <div class="row">
                     {sortedPost.slice(0, 4).map((post) => (
